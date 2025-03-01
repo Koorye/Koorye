@@ -5,14 +5,14 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 📫 You can get in touch with me by email at: [shihan.wu.koorye@outlook.com](mailto:shihan.wu.koorye@outlook.com)
 
 🔗 **Links**:
-[Personal Homepage](https://Koorye.github.io/)
-[Blog](https://Koorye.github.io/blog)
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ)
+[Personal Homepage](https://Koorye.github.io/),
+[Blog](https://Koorye.github.io/blog),
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ),
 [dblp](https://dblp.org/pid/132/9517-1.html)
 
 [![Koorye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koorye)](https://github.com/anuraghazra/github-readme-stats)
 
-**Publications**:
+**Publications**
 - \[CVPR 2025\] [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves](https://github.com/Koorye/SkipTuning)
 - \[CVPR 2024\] [DePT: Decoupled Prompt Tuning]()
 
