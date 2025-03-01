@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c8435b67-6369-432a-97fc-985cbe57f034)## Introduction
+## Introduction
 
 I'm Shihan Wu, a master student at the School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). My research interests include multi-modal large models, transfer learning and Robotics.
 
@@ -52,4 +52,3 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 <code><img height="20" src="https://img.icons8.com/?size=100&id=uA8wS3ocqih0&format=png&color=000000" alt="Vim" title="Vim"></code>
 <code><img height="20" src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="Nginx" title="Nginx"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<br>
