@@ -1,6 +1,6 @@
 ## Introduction
 
-I'm Shihan Wu, a master student at the School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). My research interests include multi-modal large models, transfer learning and Robotics.
+I'm Shihan Wu, a master student at 🏫 the School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). My research interests include multi-modal large models, transfer learning and Robotics.
 
 📫 You can get in touch with me by email at: [shihan.wu.koorye@outlook.com](mailto:shihan.wu.koorye@outlook.com)
 
@@ -10,11 +10,11 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ),
 [dblp](https://dblp.org/pid/132/9517-1.html)
 
-**Publications**
+📕 **Publications**
 - \[CVPR 2025\] [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves](https://github.com/Koorye/SkipTuning)
 - \[CVPR 2024\] [DePT: Decoupled Prompt Tuning]()
 
-**Languages**
+🧑‍💻 **Languages**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></code>
@@ -26,7 +26,7 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 <code><img height="20" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" title="SQL"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="MicroPython" title="MicroPython"></code>
 
-**Frameworks**
+🧰 **Frameworks**
 
 <code><img height="20" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" title="PyTorch"></code>
 <code><img height="20" src="https://img.icons8.com/?size=100&id=dXPwVQPCXRrV&format=png&color=000000" alt="Keras" title="Keras"></code>
@@ -45,7 +45,7 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 <code><img height="20" src="https://img.icons8.com/?size=100&id=19977&format=png&color=000000" alt="WeChat Mini Programs" title="WeChat Mini Programs"></code>
 <code><img height="20" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="Unity3D" title="Unity3D"></code>
 
-**Tools and Environments**
+🔧 **Tools and Environments**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA"></code>
