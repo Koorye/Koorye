@@ -10,8 +10,6 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ),
 [dblp](https://dblp.org/pid/132/9517-1.html)
 
-[![Koorye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koorye)](https://github.com/anuraghazra/github-readme-stats)
-
 **Publications**
 - \[CVPR 2025\] [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves](https://github.com/Koorye/SkipTuning)
 - \[CVPR 2024\] [DePT: Decoupled Prompt Tuning]()
@@ -58,3 +56,11 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://openmv.io/cdn/shop/files/openmv96x96_32x32.png?v=1702327013" alt="OpenMV" title="OpenMV"></code>
 <code><img height="20" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" alt="Raspberry Pi" title="Raspberry Pi"></code>
+
+[![Koorye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koorye)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koorye)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Koorye)
+
+![Koorye's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Koorye)
