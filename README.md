@@ -36,7 +36,7 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 <code><img height="20" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" alt="Matplotlib" title="Matplotlib"></code>
 <code><img height="20" src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" title="ggplot2"></code>
 <code><img height="20" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" title="Spring Boot"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="MyBatis" title="MyBatis"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=V5KyPdDwWxdx&format=png&color=000000" alt="MyBatis" title="MyBatis"></code>
 <code><img height="20" src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" alt="Flask" title="Flask"></code>
 <code><img height="20" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="Vue" title="Vue"></code>
 <code><img height="20" src="https://img.icons8.com/?size=100&id=11572&format=png&color=000000" alt="MySQL" title="MySQL"></code>
