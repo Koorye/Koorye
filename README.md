@@ -1,9 +1,10 @@
-## Introduction
+![image](https://github.com/user-attachments/assets/c8435b67-6369-432a-97fc-985cbe57f034)## Introduction
 
 I'm Shihan Wu, a master student at the School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). My research interests include multi-modal large models, transfer learning and Robotics.
 
 📫 You can get in touch with me by email at: [shihan.wu.koorye@outlook.com](mailto:shihan.wu.koorye@outlook.com)
 
+🔗 Links:
 [Personal Homepage](https://Koorye.github.io/)
 [Blog](https://Koorye.github.io/blog)
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ)
@@ -23,13 +24,13 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 **Frameworks**
 
 <code><img height="20" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" title="PyTorch"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=dXPwVQPCXRrV&format=png&color=000000" alt="Keras" title="Keras"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/10245193?s=200&v=4" alt="OpenMMLab" title="OpenMMLab"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="Numpy" title="Numpy"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas"></code>
+<code><img height="20" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" alt="Matplotlib" title="Matplotlib"></code>
+<code><img height="20" src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" title="ggplot2"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" title="Spring Boot"></code>
 
 **Tools and Environments**
 
