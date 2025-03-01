@@ -58,9 +58,4 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 <code><img height="20" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" alt="Raspberry Pi" title="Raspberry Pi"></code>
 
 [![Koorye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koorye)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koorye)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Koorye)
-
-![Koorye's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Koorye)
