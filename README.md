@@ -31,17 +31,25 @@ I'm Shihan Wu, a master student at the School of Computer Science and Engineerin
 <code><img height="20" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" alt="Matplotlib" title="Matplotlib"></code>
 <code><img height="20" src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" title="ggplot2"></code>
 <code><img height="20" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" title="Spring Boot"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="MyBatis" title="MyBatis"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" alt="Flask" title="Flask"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="Vue" title="Vue"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=11572&format=png&color=000000" alt="MySQL" title="MySQL"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" title="Redis"></code>
+<code><img height="20" src="https://native-res.dcloud.net.cn/images/uniapp/icons/def-android.png" alt="UniApp" title="UniApp"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=19977&format=png&color=000000" alt="WeChat Mini Programs" title="WeChat Mini Programs"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="Unity3D" title="Unity3D"></code>
+<code><img height="20" src="https://openmv.io/cdn/shop/files/openmv96x96_32x32.png?v=1702327013" alt="OpenMV" title="OpenMV"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" alt="Raspberry Pi" title="Raspberry Pi"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="MicroPython" title="MicroPython"></code>
 
 **Tools and Environments**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/webstorm.png" alt="WebStorm" title="WebStorm"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual-Studio" title="Visual-Studio"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
-<code><img height="20" src="Res/Icon/pytorch.png" alt="Pytorch" title="Pytorch"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="Ubuntu" title="Ubuntu"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=uA8wS3ocqih0&format=png&color=000000" alt="Vim" title="Vim"></code>
+<code><img height="20" src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="Nginx" title="Nginx"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <br>
