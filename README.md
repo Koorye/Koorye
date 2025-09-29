@@ -5,8 +5,6 @@ I'm Shihan Wu, a master student at 🏫 the School of Computer Science and Engin
 📫 You can get in touch with me by email at: [shihan.wu.koorye@outlook.com](mailto:shihan.wu.koorye@outlook.com)
 
 🔗 **Links**:
-[Personal Homepage](https://Koorye.github.io/),
-[Blog](https://Koorye.github.io/blog),
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ),
 [dblp](https://dblp.org/pid/132/9517-1.html)
 
