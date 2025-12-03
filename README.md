@@ -9,8 +9,8 @@ I'm Shihan Wu, a master student at 🏫 the School of Computer Science and Engin
 [dblp](https://dblp.org/pid/132/9517-1.html)
 
 📕 **Publications**
-- [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/proj/PCD/)
-- [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/proj/Inspire/)
+- [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/)
+- [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/)
 - \[CVPR 2025\] [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves](https://github.com/Koorye/SkipTuning)
 - \[CVPR 2024\] [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT)
 
