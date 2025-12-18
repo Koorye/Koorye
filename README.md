@@ -1,16 +1,23 @@
 ## Introduction
 
-I'm Shihan Wu, a master student at 🏫 the School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC). My research interests include multi-modal large models, transfer learning and Robotics.
+Hello! I am a master student at 🏫 the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC).
+My research interests include **Embodied AI** and **Vision-Language Models**.
+Feel free to reach out to me via email for any inquiries or collaborations!
 
 📫 You can get in touch with me by email at: [shihan.wu.koorye@outlook.com](mailto:shihan.wu.koorye@outlook.com)
 
 🔗 **Links**:
+[Homepage](https://koorye.github.io/home/),
+[Blog](https://koorye.github.io/blog),
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ),
-[dblp](https://dblp.org/pid/132/9517-1.html)
+[DBLP](https://dblp.org/pid/132/9517-1.html),
+[LinkedIn](https://www.linkedin.com/in/shihan-wu-koorye/)
 
 📕 **Publications**
+- [RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](http://flagopen.github.io/RoboCOIN)
 - [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/)
 - [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/)
+- [A Closer Look at Conditional Prompt Tuning for Vision-Language Models](https://github.com/Koorye/CaPT)
 - \[CVPR 2025\] [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves](https://github.com/Koorye/SkipTuning)
 - \[CVPR 2024\] [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT)
 
