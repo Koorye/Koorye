@@ -14,7 +14,7 @@ Feel free to reach out to me via email for any inquiries or collaborations!
 [LinkedIn](https://www.linkedin.com/in/shihan-wu-koorye/)
 
 📕 **Publications**
-- [RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](http://flagopen.github.io/RoboCOIN)
+- [RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation](http://flagopen.github.io/RoboCOIN)
 - \[ICLR 2026\] [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/)
 - \[ICRA 2026\] [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/)
 - \[IJCV 2026\] [A Closer Look at Conditional Prompt Tuning for Vision-Language Models](https://github.com/Koorye/CaPT)
