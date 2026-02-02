@@ -1,7 +1,7 @@
 ## Introduction
 
 Hello! I am a master student at 🏫 the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC).
-My research interests include **Embodied AI** and **Vision-Language Models**.
+My research interests include **Embodied Intelligence** and **Vision-Language Models**.
 Feel free to reach out to me via email for any inquiries or collaborations!
 
 📫 You can get in touch with me by email at: [shihan.wu.koorye@outlook.com](mailto:shihan.wu.koorye@outlook.com)
