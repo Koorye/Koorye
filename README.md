@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello! I am a master student at 🏫 the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC).
+Hello! I am a master's student at 🏫 the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC).
 My research interests include **Embodied Intelligence** and **Vision-Language Models**.
 Feel free to reach out to me via email for any inquiries or collaborations!
 
