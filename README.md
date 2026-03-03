@@ -1,19 +1,27 @@
 ## Introduction
 
-Hello! I am a master's student at 🏫 the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC).
+Hello! I am an MS student at 🏫 the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC).
 My research interests include **Embodied Intelligence** and **Vision-Language Models**.
 Feel free to reach out to me via email for any inquiries or collaborations!
 
 📫 You can get in touch with me by email at: [shihan.wu.koorye@outlook.com](mailto:shihan.wu.koorye@outlook.com)
 
-🔗 **Links**:
-[Homepage](https://koorye.github.io/home/),
-[Blog](https://koorye.github.io/blog),
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ),
-[DBLP](https://dblp.org/pid/132/9517-1.html),
+🧰 **Experience**
+
+- Research Intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/).
+- Master of Computer Science and Technology, [University of Electronic and Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
+- Bachelor of Software Engineering, [University of Electronic and Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
+
+🔗 **Links**
+
+[Homepage](https://koorye.github.io/home/)
+[Blog](https://koorye.github.io/blog)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ)
+[DBLP](https://dblp.org/pid/132/9517-1.html)
 [LinkedIn](https://www.linkedin.com/in/shihan-wu-koorye/)
 
 📕 **Publications**
+
 - [RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation](http://flagopen.github.io/RoboCOIN)
 - \[ICLR 2026\] [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/)
 - \[ICRA 2026\] [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/)
