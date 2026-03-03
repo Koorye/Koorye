@@ -14,11 +14,11 @@ Feel free to reach out to me via email for any inquiries or collaborations!
 
 🔗 **Links**
 
-[Homepage](https://koorye.github.io/home/)
-[Blog](https://koorye.github.io/blog)
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ)
-[DBLP](https://dblp.org/pid/132/9517-1.html)
-[LinkedIn](https://www.linkedin.com/in/shihan-wu-koorye/)
+[[Homepage]](https://koorye.github.io/home/)
+[[Blog]](https://koorye.github.io/blog)
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ)
+[[DBLP]](https://dblp.org/pid/132/9517-1.html)
+[[LinkedIn]](https://www.linkedin.com/in/shihan-wu-koorye/)
 
 📕 **Publications**
 
