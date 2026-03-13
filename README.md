@@ -8,9 +8,9 @@ Feel free to reach out to me via email for any inquiries or collaborations!
 
 🧰 **Experience**
 
-- 2026.6~ Research Intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/).
-- 2023.9~2026.6 Master of Computer Science and Technology, [University of Electronic and Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
-- 2019.9~2023.6 Bachelor of Software Engineering, [University of Electronic and Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
+- 2026.6~, Research Intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/).
+- 2023.9~2026.6, Master of Computer Science and Technology, [University of Electronic and Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
+- 2019.9~2023.6, Bachelor of Software Engineering, [University of Electronic and Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
 
 🔗 **Links**
 
