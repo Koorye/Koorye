@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20my%GitHub&fontSize=90)
+
 ## Introduction
 
 Hello! I am an MS student at 🏫 the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC).
