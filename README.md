@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20Koorye's%20GitHub&fontSize=50)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome%20to%20Koorye's%20GitHub&fontSize=50)
 
 ## Introduction
 
