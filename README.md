@@ -22,6 +22,18 @@
 - **[Mar. 2026]** 📈 Our **RoboCOIN** dataset has reached **4,000,000+** total downloads!
 - **[Feb. 2026]** 🚀 Paper **InSpire** (Intrinsic Spatial Reasoning for VLAs) accepted by **ICRA 2026**!
 
+<b>🔍 Media Reports & Coverage</b>
+
+- 📰 **[ModelScope]** [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
+- 📰 **[ModelScope]** [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
+- 🎙️ **[AIorang]** [RoboCOIN: Large-scale Dual-Arm Robot Dataset Public Lecture](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
+- 🏢 **[AgileX]** [BAAI builds the first large-scale multi-embodiment dual-arm data infrastructure](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
+- 🧠 **[Embodied AI Heart]** [PCD: Training-free & Plug-and-Play VLA for Action Prediction](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
+- 🤖 **[DeepBlue]** [Simple spatial reasoning boosts VLA generalization by 4x](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
+- 🌌 **[Multimodal Space]** [CoT-enhanced spatial reasoning for VLAs](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
+- 🏫 **[LLMPhD]** [Skip Tuning: Lightweight adaptation for vision-language models](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
+- 🤖 **[Robot Lecture Hall]** [BAAI RoboCOIN: Largest real-world dual-arm dataset with fine-grained annotations](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
+
 ---
 
 ### 💼 Experience
@@ -41,18 +53,6 @@
 *   🖼️ **[CVPR 2025]** [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters](https://github.com/Koorye/SkipTuning)
 *   🖼️ **[CVPR 2024]** [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT)
 
-<b>🔍 Media Reports & Coverage</b>
-
-- 📰 **[ModelScope]** [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
-- 📰 **[ModelScope]** [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
-- 🎙️ **[AIorang]** [RoboCOIN: Large-scale Dual-Arm Robot Dataset Public Lecture](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
-- 🏢 **[AgileX]** [BAAI builds the first large-scale multi-embodiment dual-arm data infrastructure](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
-- 🧠 **[Embodied AI Heart]** [PCD: Training-free & Plug-and-Play VLA for Action Prediction](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
-- 🤖 **[DeepBlue]** [Simple spatial reasoning boosts VLA generalization by 4x](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
-- 🌌 **[Multimodal Space]** [CoT-enhanced spatial reasoning for VLAs](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
-- 🏫 **[LLMPhD]** [Skip Tuning: Lightweight adaptation for vision-language models](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
-- 🤖 **[Robot Lecture Hall]** [BAAI RoboCOIN: Largest real-world dual-arm dataset with fine-grained annotations](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
-
 ---
 
 ### 🛠️ Technical Arsenal
@@ -69,13 +69,17 @@
 
 ### 📊 GitHub Activity
 
-<!-- ![Koorye's GitHub stats](profile/stats.svg) -->
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="profile/stats.svg" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorye&theme=transparent&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="profile/stats.svg" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorye&theme=transparent&hide_border=true" width="50%" />
-</p>
-
-<p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="dist/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </p>
