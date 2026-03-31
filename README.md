@@ -67,5 +67,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Koorye/Koorye/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="dist/github-contribution-grid-snake.svg" alt="snake" />
 </p>
