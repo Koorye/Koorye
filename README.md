@@ -6,9 +6,9 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
-      <p>Hello! I am an MS student at <b>UESTC</b>. My mission is to build <b>Embodied Intelligence</b> that can perceive, reason, and act in the real world.</p>
-      <p><b>Focus:</b> Vision-Language Models (VLM), Robotic Foundation Models, and Sim-to-Real Transfer.</p>
+    <td width="50%">
+      <p>Hello! I am an MS student at <b>Univsersity of Electronic Science and Technology of China</b>.
+      <p><b>Focus:</b> Embodied Intelligence (VLA), Vision-Language Models (VLM).</p>
       <p>
         <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=flat-square&logo=microsoftoutlook" /></a>
         <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/Homepage-Click-orange?style=flat-square&logo=googlechrome" /></a>
@@ -16,7 +16,7 @@
         <a href="https://www.linkedin.com/in/shihan-wu-koorye/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
       <img src="profile/stats.svg" width="100%" />
     </td>
   </tr>
