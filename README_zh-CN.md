@@ -49,27 +49,27 @@
 ### 📕 发表论文
 
 * 🤖 **[EAI-100 2025年度 TOP-10 数据集]** **RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**  
-  [[项目主页]](https://flagopen.github.io/RoboCOIN/) [[arXiv]](https://arxiv.org/abs/2511.17441) [[PDF]](https://arxiv.org/pdf/2511.17441) [[代码]](https://github.com/FlagOpen/RoboCOIN/)
+  [[项目主页]](https://flagopen.github.io/RoboCOIN/) [[arXiv]](https://arxiv.org/abs/2511.17441) [[PDF]](https://arxiv.org/pdf/2511.17441) [[代码]](https://github.com/FlagOpen/RoboCOIN/) ![Stars](https://img.shields.io/github/stars/FlagOpen/RoboCOIN?style=flat-square&logo=github)
     * 开源大规模双臂机器人数据集，涵盖 **15 个机器人平台** 和 **18万+ 条演示数据**，由 **20 家机构** 联合协作完成。
 
 * 🤖 **[ICLR 2026]** **Policy Contrastive Decoding for Robotic Foundation Models**  
-  [[项目主页]](https://koorye.github.io/PCD) [[arXiv]](https://arxiv.org/abs/2505.13255) [[PDF]](https://arxiv.org/pdf/2505.13255) [[代码]](https://github.com/Koorye/PCD/)
+  [[项目主页]](https://koorye.github.io/PCD) [[arXiv]](https://arxiv.org/abs/2505.13255) [[PDF]](https://arxiv.org/pdf/2505.13255) [[代码]](https://github.com/Koorye/PCD/) ![Stars](https://img.shields.io/github/stars/Koorye/PCD?style=flat-square&logo=github)
     * 适用于多种 VLA 架构的通用框架，在无需训练的情况下实现 **+8%~41%** 的性能提升。
 
 * 🤖 **[ICRA 2026]** **InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**  
-  [[项目主页]](https://koorye.github.io/Inspire) [[arXiv]](https://arxiv.org/abs/2412.11509) [[PDF]](https://arxiv.org/pdf/2412.11509) [[代码]](https://github.com/Koorye/Inspire/)
+  [[项目主页]](https://koorye.github.io/Inspire) [[arXiv]](https://arxiv.org/abs/2412.11509) [[PDF]](https://arxiv.org/pdf/2412.11509) [[代码]](https://github.com/Koorye/Inspire/) ![Stars](https://img.shields.io/github/stars/Koorye/Inspire?style=flat-square&logo=github)
     * 减少 VLA 模型中的虚假相关性，显著提升模型在 **已见任务 (+6.2%)** 和 **未见任务 (+10%)** 中的空间推理能力。
 
 * 🖼️ **[IJCV 2026]** **A Closer Look at Conditional Prompt Tuning for Vision-Language Models**  
-  [[arXiv]](https://arxiv.org/abs/2506.23856) [[PDF]](https://arxiv.org/pdf/2506.23856) [[代码]](https://github.com/Koorye/CaPT/)
+  [[arXiv]](https://arxiv.org/abs/2506.23856) [[PDF]](https://arxiv.org/pdf/2506.23856) [[代码]](https://github.com/Koorye/CaPT/) ![Stars](https://img.shields.io/github/stars/Koorye/CaPT?style=flat-square&logo=github)
     * 揭示了现有条件提示微调（Conditional Prompt Tuning）方法中的关键问题，性能超越当前 SOTA 方法 **3.49%**。
 
 * 🖼️ **[CVPR 2025]** **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters**  
-  [[代码]](https://github.com/Koorye/SkipTuning)
+  [[arXiv](https://arxiv.org/abs/2412.11509)][[PDF](https://arxiv.org/pdf/2412.11509)][[代码]](https://github.com/Koorye/SkipTuning) ![Stars](https://img.shields.io/github/stars/Koorye/SkipTuning?style=flat-square&logo=github)
     * 一种无参数适配方法，在提升 **1.04%** 准确率的同时，实现 **15倍** 的推理加速和 **6.4倍** 的显存效率提升。
 
 * 🖼️ **[CVPR 2024]** **DePT: Decoupled Prompt Tuning**  
-  [[arXiv]](https://arxiv.org/abs/2309.07439) [[PDF]](https://arxiv.org/pdf/2309.07439) [[代码]](https://github.com/Koorye/DePT/)
+  [[arXiv]](https://arxiv.org/abs/2309.07439) [[PDF]](https://arxiv.org/pdf/2309.07439) [[代码]](https://github.com/Koorye/DePT/) ![Stars](https://img.shields.io/github/stars/Koorye/DePT?style=flat-square&logo=github)
     * 即插即用的解耦提示微调方法，在多个提示微调基准模型上稳定提供 **+0.67%~2.65%** 的性能增益。
 
 ---

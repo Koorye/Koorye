@@ -52,27 +52,27 @@
 ### 📕 Publications
 
 * 🤖 **[EAI-100 TOP-10 Datasets in 2025]** **RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**  
-  [[Project]](https://flagopen.github.io/RoboCOIN/) [[arXiv]](https://arxiv.org/abs/2511.17441) [[PDF]](https://arxiv.org/pdf/2511.17441) [[Code]](https://github.com/FlagOpen/RoboCOIN/)
+  [[Project]](https://flagopen.github.io/RoboCOIN/) [[arXiv]](https://arxiv.org/abs/2511.17441) [[PDF]](https://arxiv.org/pdf/2511.17441) [[Code]](https://github.com/FlagOpen/RoboCOIN/) ![Stars](https://img.shields.io/github/stars/FlagOpen/RoboCOIN?style=flat-square&logo=github)
     * Open-sourced large-scale bimanual robotic dataset with **15 robotic platforms** and **180K+ demonstrations**, collaborated with **20 institutions**.
 
 * 🤖 **[ICLR 2026]** **Policy Contrastive Decoding for Robotic Foundation Models**  
-  [[Project]](https://koorye.github.io/PCD) [[arXiv]](https://arxiv.org/abs/2505.13255) [[PDF]](https://arxiv.org/pdf/2505.13255) [[Code]](https://github.com/Koorye/PCD/)
+  [[Project]](https://koorye.github.io/PCD) [[arXiv]](https://arxiv.org/abs/2505.13255) [[PDF]](https://arxiv.org/pdf/2505.13255) [[Code]](https://github.com/Koorye/PCD/) ![Stars](https://img.shields.io/github/stars/Koorye/PCD?style=flat-square&logo=github)
     * Universal framework for multiple VLA architectures, achieving **+8%~41% improvement** without training.
 
 * 🤖 **[ICRA 2026]** **InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**  
-  [[Project]](https://koorye.github.io/Inspire) [[arXiv]](https://arxiv.org/abs/2412.11509) [[PDF]](https://arxiv.org/pdf/2412.11509) [[Code]](https://github.com/Koorye/Inspire/)
+  [[Project]](https://koorye.github.io/Inspire) [[arXiv]](https://arxiv.org/abs/2412.11509) [[PDF]](https://arxiv.org/pdf/2412.11509) [[Code]](https://github.com/Koorye/Inspire/) ![Stars](https://img.shields.io/github/stars/Koorye/Inspire?style=flat-square&logo=github)
     * Reducing spurious correlations in VLAs, boosting performance on **seen (+6.2%)** and **unseen (+10%)** tasks.
 
 * 🖼️ **[IJCV 2026]** **A Closer Look at Conditional Prompt Tuning for Vision-Language Models**  
-  [[arXiv]](https://arxiv.org/abs/2506.23856) [[PDF]](https://arxiv.org/pdf/2506.23856) [[Code]](https://github.com/Koorye/CaPT/)
+  [[arXiv]](https://arxiv.org/abs/2506.23856) [[PDF]](https://arxiv.org/pdf/2506.23856) [[Code]](https://github.com/Koorye/CaPT/) ![Stars](https://img.shields.io/github/stars/Koorye/CaPT?style=flat-square&logo=github)
     * Identified critical issues in existing conditional prompt tuning methods, outperforming the state-of-the-art by **3.49%**.
 
 * 🖼️ **[CVPR 2025]** **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters**  
-  [[Code]](https://github.com/Koorye/SkipTuning)
+  [[arXiv](https://arxiv.org/abs/2412.11509)][[PDF](https://arxiv.org/pdf/2412.11509)][[Code]](https://github.com/Koorye/SkipTuning) ![Stars](https://img.shields.io/github/stars/Koorye/SkipTuning?style=flat-square&logo=github)
     * Parameter-free adaptation method, **+1.04%** accuracy with **15x** speedup and **6.4x** memory efficiency.
 
 * 🖼️ **[CVPR 2024]** **DePT: Decoupled Prompt Tuning**  
-[[arXiv]](https://arxiv.org/abs/2309.07439) [[PDF]](https://arxiv.org/pdf/2309.07439) [[Code]](https://github.com/Koorye/DePT/)
+[[arXiv]](https://arxiv.org/abs/2309.07439) [[PDF]](https://arxiv.org/pdf/2309.07439) [[Code]](https://github.com/Koorye/DePT/) ![Stars](https://img.shields.io/github/stars/Koorye/DePT?style=flat-square&logo=github)
     * Plug-and-play method providing **+0.67%~2.65% gains** across various prompt tuning baselines.
 
 ---
