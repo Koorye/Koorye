@@ -41,20 +41,39 @@
 
 ### 💼 Experience
 
-- 🏢 **Research Intern** | Beijing Academy of Artificial Intelligence (BAAI) | *2026.06 - Present*
-- 🎓 **Master's Student** | UESTC, Computer Science | *2023.09 - Present*
-- 🎓 **Bachelor of SE** | UESTC, Software Engineering | *2019.09 - 2023.06*
+- 🏢 **Research Intern** · Beijing Academy of Artificial Intelligence (BAAI) · *2025.06 - Present*
+- 🎓 **Master's Student** · UESTC, Computer Science · *2023.09 - Present*
+  - 🏆National Scholarship (2024), 🏅Sichuan Province Outstanding Graduate (2026)
+- 🎓 **Bachelor of SE** · UESTC, Software Engineering · *2019.09 - 2023.06*
+  - 🏅UESTC Outstanding Graduate (2023), 🏆"Shiqiang" Special Scholarship (2022)
 
 ---
 
 ### 📕 Publications
 
-*   🤖 **[EAI-100 TOP-10 Datasets in 2025]** [RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation](https://flagopen.github.io/RoboCOIN) ![GitHub Repo stars](https://img.shields.io/github/stars/flagOpen/RoboCOIN?style=flat-square&logo=github)
-*   🤖 **[ICLR 2026]** [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/PCD?style=flat-square&logo=github)
-*   🤖 **[ICRA 2026]** [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/Inspire?style=flat-square&logo=github)
-*   🖼️ **[IJCV 2026]** [A Closer Look at Conditional Prompt Tuning for Vision-Language Models](https://github.com/Koorye/CaPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/CaPT?style=flat-square&logo=github)
-*   🖼️ **[CVPR 2025]** [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters](https://github.com/Koorye/SkipTuning) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/SkipTuning?style=flat-square&logo=github)
-*   🖼️ **[CVPR 2024]** [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/DePT?style=flat-square&logo=github)
+* 🤖 **[EAI-100 TOP-10 Datasets in 2025]** **RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**  
+  [[Project]](https://flagopen.github.io/RoboCOIN/) [[arXiv]](https://arxiv.org/abs/2511.17441) [[PDF]](https://arxiv.org/pdf/2511.17441) [[Code]](https://github.com/FlagOpen/RoboCOIN/)
+    * Open-sourced large-scale bimanual robotic dataset with **15 robotic platforms** and **180K+ demonstrations**, collaborated with **20 institutions**.
+
+* 🤖 **[ICLR 2026]** **Policy Contrastive Decoding for Robotic Foundation Models**  
+  [[Project]](https://koorye.github.io/PCD) [[arXiv]](https://arxiv.org/abs/2505.13255) [[PDF]](https://arxiv.org/pdf/2505.13255) [[Code]](https://github.com/Koorye/PCD/)
+    * Universal framework for multiple VLA architectures, achieving **+8%~41% improvement** without training.
+
+* 🤖 **[ICRA 2026]** **InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**  
+  [[Project]](https://koorye.github.io/Inspire) [[arXiv]](https://arxiv.org/abs/2412.11509) [[PDF]](https://arxiv.org/pdf/2412.11509) [[Code]](https://github.com/Koorye/Inspire/)
+    * Reducing spurious correlations in VLAs, boosting performance on **seen (+6.2%)** and **unseen (+10%)** tasks.
+
+* 🖼️ **[IJCV 2026]** **A Closer Look at Conditional Prompt Tuning for Vision-Language Models**  
+  [[arXiv]](https://arxiv.org/abs/2506.23856) [[PDF]](https://arxiv.org/pdf/2506.23856) [[Code]](https://github.com/Koorye/CaPT/)
+    * Identified critical issues in existing conditional prompt tuning methods, outperforming the state-of-the-art by **3.49%**.
+
+* 🖼️ **[CVPR 2025]** **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters**  
+  [[Code]](https://github.com/Koorye/SkipTuning)
+    * Parameter-free adaptation method, **+1.04%** accuracy with **15x** speedup and **6.4x** memory efficiency.
+
+* 🖼️ **[CVPR 2024]** **DePT: Decoupled Prompt Tuning**  
+[[arXiv]](https://arxiv.org/abs/2309.07439) [[PDF]](https://arxiv.org/pdf/2309.07439) [[Code]](https://github.com/Koorye/DePT/)
+    * Plug-and-play method providing **+0.67%~2.65% gains** across various prompt tuning baselines.
 
 ---
 
