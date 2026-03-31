@@ -4,7 +4,7 @@
 
 ## 👨‍🔬 About Me
 
-<p>Hello! I am an MS student at <b>Univsersity of Electronic Science and Technology of China</b>.
+<p>Hello! I am an MS student at <b>University of Electronic Science and Technology of China</b> (UESTC).
 <p><b>Focus:</b> Embodied Intelligence (VLA), Vision-Language Models (VLM).</p>
 <p>
   <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=flat-square&logo=microsoftoutlook" /></a>
@@ -12,6 +12,15 @@
   <a href="https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ"><img src="https://img.shields.io/badge/Scholar-Profile-red?style=flat-square&logo=googlescholar" /></a>
   <a href="https://www.linkedin.com/in/shihan-wu-koorye/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
 </p>
+
+---
+
+### 📢 News
+
+- **[Mar. 2026]** 🎉 Our **RoboCOIN** dataset has been rated as a <b style="color: #e74c3c;">Top-10 Dataset in 2025</b> by ModelScope and CCF TCIR!
+- **[Mar. 2026]** 🖋️ I was invited to serve as a reviewer for **BMVC 2026**.
+- **[Mar. 2026]** 📈 Our **RoboCOIN** dataset has reached **4,000,000+** total downloads!
+- **[Feb. 2026]** 🚀 Paper **InSpire** (Intrinsic Spatial Reasoning for VLAs) accepted by **ICRA 2026**!
 
 ---
 
@@ -32,6 +41,21 @@
 *   🖼️ **[CVPR 2025]** [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters](https://github.com/Koorye/SkipTuning)
 *   🖼️ **[CVPR 2024]** [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT)
 
+<details>
+<summary><b>🔍 Click to view Media Reports & Coverage</b></summary>
+<br/>
+
+- 📰 **[ModelScope]** [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
+- 📰 **[ModelScope]** [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
+- 🎙️ **[AIorang]** [RoboCOIN: Large-scale Dual-Arm Robot Dataset Public Lecture](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
+- 🏢 **[AgileX]** [BAAI builds the first large-scale multi-embodiment dual-arm data infrastructure](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
+- 🧠 **[Embodied AI Heart]** [PCD: Training-free & Plug-and-Play VLA for Action Prediction](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
+- 🤖 **[DeepBlue]** [Simple spatial reasoning boosts VLA generalization by 4x](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
+- 🌌 **[Multimodal Space]** [CoT-enhanced spatial reasoning for VLAs](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
+- 🏫 **[LLMPhD]** [Skip Tuning: Lightweight adaptation for vision-language models](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
+- 🤖 **[Robot Lecture Hall]** [BAAI RoboCOIN: Largest real-world dual-arm dataset with fine-grained annotations](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
+</details>
+
 ---
 
 ### 🛠️ Technical Arsenal
@@ -48,9 +72,6 @@
 
 ### 📊 GitHub Activity
 
-<!-- <p align="center">
-  <img src="profile/stats.svg" width="100%" />
-</p> -->
 ![Koorye's GitHub stats](profile/stats.svg)
 
 <p align="center">
