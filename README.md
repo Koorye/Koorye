@@ -17,7 +17,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Koorye&show_icons=true&theme=transparent&hide_border=true" width="100%" />
+      <img src="profile/stats.svg" width="100%" />
     </td>
   </tr>
 </table>
