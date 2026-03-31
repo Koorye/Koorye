@@ -86,3 +86,20 @@
 <p align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </p>
+
+---
+
+### 🖼️ Gallery
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="gallery/baai.png" width="100%" />
+      <p><b>BAAI Internship</b></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="gallery/uestc.png" width="100%" />
+      <p><b>UESTC</b></p>
+    </td>
+  </tr>
+</table?

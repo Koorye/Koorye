@@ -84,3 +84,5 @@
 <p align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </p>
+
+---
