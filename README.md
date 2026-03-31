@@ -1,78 +1,71 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20Koorye's%20GitHub&fontSize=50)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shihan%20Wu%20(Koorye)&fontSize=60&animation=fadeIn" />
+</p>
 
-## Introduction
+## 👨‍🔬 About Me
 
-Hello! I am an MS student at 🏫 the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC).
-My research interests include **Embodied Intelligence** and **Vision-Language Models**.
-Feel free to reach out to me via email for any inquiries or collaborations!
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>Hello! I am an MS student at <b>UESTC</b>. My mission is to build <b>Embodied Intelligence</b> that can perceive, reason, and act in the real world.</p>
+      <p><b>Focus:</b> Vision-Language Models (VLM), Robotic Foundation Models, and Sim-to-Real Transfer.</p>
+      <p>
+        <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=flat-square&logo=microsoftoutlook" /></a>
+        <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/Homepage-Click-orange?style=flat-square&logo=googlechrome" /></a>
+        <a href="https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ"><img src="https://img.shields.io/badge/Scholar-Profile-red?style=flat-square&logo=googlescholar" /></a>
+        <a href="https://www.linkedin.com/in/shihan-wu-koorye/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Koorye&show_icons=true&theme=transparent&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
-📫 You can get in touch with me by email at: [shihan.wu.koorye@outlook.com](mailto:shihan.wu.koorye@outlook.com)
+---
 
-🧰 **Experience**
+### 💼 Experience
 
-- 2026.6~Current, Research Intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/)
-- 2023.9~Current, Master of Computer Science and Technology, [University of Electronic and Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
-- 2019.9~2023.6, Bachelor of Software Engineering, [University of Electronic and Science and Technology of China (UESTC)](https://www.uestc.edu.cn/)
+- 🏢 **Research Intern** | Beijing Academy of Artificial Intelligence (BAAI) | *2026.06 - Present*
+- 🎓 **Master's Student** | UESTC, Computer Science | *2023.09 - Present*
+- 🎓 **Bachelor of SE** | UESTC, Software Engineering | *2019.09 - 2023.06*
 
-🔗 **Links**
+---
 
-[[Homepage]](https://koorye.github.io/home/)
-[[Blog]](https://koorye.github.io/blog)
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ)
-[[DBLP]](https://dblp.org/pid/132/9517-1.html)
-[[LinkedIn]](https://www.linkedin.com/in/shihan-wu-koorye/)
+### 📕 Selected Publications
 
-📕 **Publications**
+> *Exploring efficient adaptation and spatial reasoning in VLMs and Robotics.*
 
-- [RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation](https://flagopen.github.io/RoboCOIN)
-- \[ICLR 2026\] [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/)
-- \[ICRA 2026\] [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/)
-- \[IJCV 2026\] [A Closer Look at Conditional Prompt Tuning for Vision-Language Models](https://github.com/Koorye/CaPT)
-- \[CVPR 2025\] [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves](https://github.com/Koorye/SkipTuning)
-- \[CVPR 2024\] [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT)
+*   🔥 **[RoboCOIN]** [RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation](https://flagopen.github.io/RoboCOIN)
+*   🏛️ **[ICLR 2026]** [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/)
+*   🤖 **[ICRA 2026]** [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/)
+*   🖼️ **[IJCV 2026]** [A Closer Look at Conditional Prompt Tuning for Vision-Language Models](https://github.com/Koorye/CaPT)
+*   ⚡ **[CVPR 2025]** [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters](https://github.com/Koorye/SkipTuning)
+*   🛠️ **[CVPR 2024]** [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT)
 
-🧑‍💻 **Languages**
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=eMdBqh1N9IWw&format=png&color=000000" alt="C" title="C"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" alt="C#" title="C#"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" alt="Javascript" title="Javascript"></code>
-<code><img height="20" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" title="SQL"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="MicroPython" title="MicroPython"></code>
+### 🛠️ Technical Arsenal
 
-🧰 **Frameworks**
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **AI & Robotics** | ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/OpenMMLab-2196F3?style=for-the-badge) ![](https://img.shields.io/badge/Unity3D-000000?style=for-the-badge&logo=unity&logoColor=white) |
+| **Languages** | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Web & Backend** | ![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Tools** | ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-<code><img height="20" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" title="PyTorch"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=dXPwVQPCXRrV&format=png&color=000000" alt="Keras" title="Keras"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/10245193?s=200&v=4" alt="OpenMMLab" title="OpenMMLab"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="Numpy" title="Numpy"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas"></code>
-<code><img height="20" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" alt="Matplotlib" title="Matplotlib"></code>
-<code><img height="20" src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" title="ggplot2"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" title="Spring Boot"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=V5KyPdDwWxdx&format=png&color=000000" alt="MyBatis" title="MyBatis"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" alt="Flask" title="Flask"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" alt="Vue" title="Vue"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=11572&format=png&color=000000" alt="MySQL" title="MySQL"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" title="Redis"></code>
-<code><img height="20" src="https://native-res.dcloud.net.cn/images/uniapp/icons/def-android.png" alt="UniApp" title="UniApp"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=19977&format=png&color=000000" alt="WeChat Mini Programs" title="WeChat Mini Programs"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="Unity3D" title="Unity3D"></code>
+---
 
-🔧 **Tools and Environments**
+### 📊 GitHub Activity
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=uA8wS3ocqih0&format=png&color=000000" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="Nginx" title="Nginx"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="https://openmv.io/cdn/shop/files/openmv96x96_32x32.png?v=1702327013" alt="OpenMV" title="OpenMV"></code>
-<code><img height="20" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" alt="Raspberry Pi" title="Raspberry Pi"></code>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koorye&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-[![Koorye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koorye)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koorye)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorye&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Koorye/Koorye/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
