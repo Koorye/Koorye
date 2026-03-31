@@ -1,5 +1,4 @@
 <p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shihan%20Wu%20(Koorye)&fontSize=60&animation=fadeIn" /> -->
   <img src="banner.png" />
 </p>
 
@@ -27,8 +26,8 @@
 
 <b>🔍 Media Reports & Coverage</b>
 
-- 📰 **[ModelScope]** [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
-- 📰 **[ModelScope]** [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
+- 🌎 **[ModelScope]** [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
+- 🌎 **[ModelScope]** [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
 - 🎙️ **[AIorang]** [RoboCOIN: Large-scale Dual-Arm Robot Dataset Public Lecture](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
 - 🏢 **[AgileX]** [BAAI builds the first large-scale multi-embodiment dual-arm data infrastructure](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
 - 📰 **[Embodied AI Heart]** [PCD: Training-free & Plug-and-Play VLA for Action Prediction](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
@@ -63,10 +62,10 @@
 | Category | Skills & Frameworks |
 | :--- | :--- |
 | **AI** | ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/JAX-222827?style=for-the-badge&logo=google&logoColor=white) ![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![](https://img.shields.io/badge/OpenMMLab-2196F3?style=for-the-badge) |
-| **Data Science** | ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/Seaborn-4EAEAA?style=for-the-badge&logo=python&logoColor=white) |
-| **Languages** | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| **Data Science** | ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=fff) ![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/Seaborn-4EAEAA?style=for-the-badge&logo=python&logoColor=white) |
+| **Languages** | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) |
 | **Web & Backend** | ![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **Tools** | ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) |
+| **Tools** | ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) |
 
 ---
 
