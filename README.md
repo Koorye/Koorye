@@ -20,7 +20,7 @@
 
 ### 📢 News
 
-- **[Mar. 2026]** 🎉 Our **RoboCOIN** dataset has been rated as a <b style="color: #e74c3c;">Top-10 Dataset in 2025</b> by ModelScope and CCF TCIR!
+- **[Mar. 2026]** 🎉 Our **RoboCOIN** dataset has been rated as a <b style="color: #e74c3c;">EAI-100 Top-10 Dataset in 2025</b> by ModelScope and CCF TCIR!
 - **[Mar. 2026]** 🖋️ I was invited to serve as a reviewer for **BMVC 2026**.
 - **[Mar. 2026]** 📈 Our **RoboCOIN** dataset has reached **4,000,000+** total downloads!
 - **[Feb. 2026]** 🚀 Paper **InSpire** (Intrinsic Spatial Reasoning for VLAs) accepted by **ICRA 2026**!
