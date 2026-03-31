@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shihan%20Wu%20(Koorye)&fontSize=60&animation=fadeIn" />
 </p>
 
+[English](./README.md) | [中文](./README_zh-CN.md)
+
 ## 👨‍🔬 About Me
 
 <p>Hello! I am an MS student at <b>University of Electronic Science and Technology of China</b> (UESTC).
