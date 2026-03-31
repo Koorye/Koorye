@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shihan%20Wu%20(Koorye)&fontSize=60&animation=fadeIn" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shihan%20Wu%20(Koorye)&fontSize=60&animation=fadeIn" /> -->
+  <img src="banner.png" />
 </p>
 
 ## 👨‍🔬 关于我
