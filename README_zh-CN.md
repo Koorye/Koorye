@@ -47,12 +47,12 @@
 
 ### 📕 发表论文
 
-*   🤖 **[EAI-100 TOP-10 数据集]** [RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation](https://flagopen.github.io/RoboCOIN)
-*   🤖 **[ICLR 2026]** [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/)
-*   🤖 **[ICRA 2026]** [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/)
-*   🖼️ **[IJCV 2026]** [A Closer Look at Conditional Prompt Tuning for Vision-Language Models](https://github.com/Koorye/CaPT)
-*   🖼️ **[CVPR 2025]** [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters](https://github.com/Koorye/SkipTuning)
-*   🖼️ **[CVPR 2024]** [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT)
+*   🤖 **[EAI-100 TOP-10 Datasets in 2025]** [RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation](https://flagopen.github.io/RoboCOIN) ![GitHub Repo stars](https://img.shields.io/github/stars/flagOpen/RoboCOIN?style=for-the-badge&logo=github)
+*   🤖 **[ICLR 2026]** [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/PCD?style=for-the-badge&logo=github)
+*   🤖 **[ICRA 2026]** [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/Inspire?style=for-the-badge&logo=github)
+*   🖼️ **[IJCV 2026]** [A Closer Look at Conditional Prompt Tuning for Vision-Language Models](https://github.com/Koorye/CaPT) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/CaPT?style=for-the-badge&logo=github)
+*   🖼️ **[CVPR 2025]** [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters](https://github.com/Koorye/SkipTuning) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/SkipTuning?style=for-the-badge&logo=github)
+*   🖼️ **[CVPR 2024]** [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT) ![GitHub Repo stars](https://img.shields.io/github/stars/Koorye/DePT?style=for-the-badge&logo=github)
 
 ---
 
