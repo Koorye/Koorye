@@ -1,5 +1,6 @@
 <p align="center">
   <img src="banner.png" />
+  ↑ This is Zhongguancun Science & Technology Park in Beijing where I interned in summer 2025 ↑
 </p>
 
 [English](./README.md) | [中文](./README_zh-CN.md)
@@ -26,8 +27,8 @@
 
 <b>🔍 Media Reports & Coverage</b>
 
-- 🌎 **[ModelScope]** [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
-- 🌎 **[ModelScope]** [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
+- 🌏 **[ModelScope]** [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
+- 🌏 **[ModelScope]** [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
 - 🎙️ **[AIorang]** [RoboCOIN: Large-scale Dual-Arm Robot Dataset Public Lecture](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
 - 🏢 **[AgileX]** [BAAI builds the first large-scale multi-embodiment dual-arm data infrastructure](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
 - 📰 **[Embodied AI Heart]** [PCD: Training-free & Plug-and-Play VLA for Action Prediction](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)

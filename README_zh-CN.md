@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Shihan%20Wu%20(Koorye)&fontSize=60&animation=fadeIn" /> -->
   <img src="banner.png" />
+  ↑ 这是我在 2025 年夏天实习的北京中关村科技园 ↑
 </p>
 
 ## 👨‍🔬 关于我
@@ -25,15 +25,15 @@
 
 <b>🔍 媒体报道与专题</b>
 
-- 📰 **[魔搭社区]** [智源 RoboCOIN 数据集正式开源！](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
-- 📰 **[魔搭社区]** [EAI-100: 2025 具身智能白皮书百强成果与人物入选](https://www.modelscope.cn/learn/6060#4ever-bi-513)
+- 🌏 **[魔搭社区]** [智源 RoboCOIN 数据集正式开源！](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
+- 🌏 **[魔搭社区]** [EAI-100: 2025 具身智能白皮书百强成果与人物入选](https://www.modelscope.cn/learn/6060#4ever-bi-513)
 - 🎙️ **[将门创投]** [RoboCOIN: 用于统一操控的大规模双臂机器人数据集 | 公开课](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
 - 🏢 **[松灵机器人]** [智源研究院构建首个大规模多具身双臂操控数据基础设施](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
-- 🧠 **[具身智能之心]** [PCD: 无需训练、即插即用的 VLA，消除动作预测中的伪相关](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
-- 🤖 **[深蓝学院]** [打破 VLA 伪相关！简单的空间推理让泛化能力提升 4 倍](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
-- 🌌 **[多模态空间]** [思维链增强的空间推理，助力 VLA 连接高维空间](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
-- 🏫 **[硕博心理]** [成电 & 同济 Skip Tuning: 视觉语言模型的轻量化适配方案](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
-- 🤖 **[机器人大讲堂]** [智源 RoboCOIN: 带有细粒度标注的最大规模真实世界双臂数据集](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
+- 📰 **[具身智能之心]** [PCD: 无需训练、即插即用的 VLA，消除动作预测中的伪相关](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
+- 📰 **[深蓝学院]** [打破 VLA 伪相关！简单的空间推理让泛化能力提升 4 倍](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
+- 📰 **[多模态空间]** [思维链增强的空间推理，助力 VLA 连接高维空间](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
+- 📰 **[硕博心理]** [成电 & 同济 Skip Tuning: 视觉语言模型的轻量化适配方案](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
+- 📰 **[机器人大讲堂]** [智源 RoboCOIN: 带有细粒度标注的最大规模真实世界双臂数据集](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
 
 ---
 
