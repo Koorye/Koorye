@@ -95,11 +95,11 @@
   <tr>
     <td width="50%" align="center">
       <img src="gallery/baai.png" width="100%" />
-      <p><b>BAAI Internship</b></p>
+      <p><b>BAAI</b></p>
     </td>
     <td width="50%" align="center">
       <img src="gallery/uestc.png" width="100%" />
       <p><b>UESTC</b></p>
     </td>
   </tr>
-</table?
+</table>

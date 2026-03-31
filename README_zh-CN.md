@@ -86,3 +86,18 @@
 </p>
 
 ---
+
+### 🖼️ 相册
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="gallery/baai.png" width="100%" />
+      <p><b>北京智源人工智能研究院</b></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="gallery/uestc.png" width="100%" />
+      <p><b>电子科技大学</b></p>
+    </td>
+  </tr>
+</table>
