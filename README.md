@@ -69,10 +69,11 @@
 
 ### 📊 GitHub Activity
 
-![Koorye's GitHub stats](profile/stats.svg)
+<!-- ![Koorye's GitHub stats](profile/stats.svg) -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorye&theme=transparent&hide_border=true" />
+  <img src="profile/stats.svg" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koorye&theme=transparent&hide_border=true" width="50%" />
 </p>
 
 <p align="center">
