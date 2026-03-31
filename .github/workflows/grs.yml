@@ -26,3 +26,21 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+
+      - name: Generate contribution grid snake cards
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+
+      - name: Commit contribution grid snake cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add dist/*.svg
+          git commit -m "Update contribution grid snake cards" || exit 0
+          git push
