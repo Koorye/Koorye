@@ -4,23 +4,14 @@
 
 ## 👨‍🔬 About Me
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <p>Hello! I am an MS student at <b>Univsersity of Electronic Science and Technology of China</b>.
-      <p><b>Focus:</b> Embodied Intelligence (VLA), Vision-Language Models (VLM).</p>
-      <p>
-        <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=flat-square&logo=microsoftoutlook" /></a>
-        <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/Homepage-Click-orange?style=flat-square&logo=googlechrome" /></a>
-        <a href="https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ"><img src="https://img.shields.io/badge/Scholar-Profile-red?style=flat-square&logo=googlescholar" /></a>
-        <a href="https://www.linkedin.com/in/shihan-wu-koorye/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="profile/stats.svg" width="100%" />
-    </td>
-  </tr>
-</table>
+<p>Hello! I am an MS student at <b>Univsersity of Electronic Science and Technology of China</b>.
+<p><b>Focus:</b> Embodied Intelligence (VLA), Vision-Language Models (VLM).</p>
+<p>
+  <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=flat-square&logo=microsoftoutlook" /></a>
+  <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/Homepage-Click-orange?style=flat-square&logo=googlechrome" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ"><img src="https://img.shields.io/badge/Scholar-Profile-red?style=flat-square&logo=googlescholar" /></a>
+  <a href="https://www.linkedin.com/in/shihan-wu-koorye/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
+</p>
 
 ---
 
@@ -32,16 +23,14 @@
 
 ---
 
-### 📕 Selected Publications
+### 📕 Publications
 
-> *Exploring efficient adaptation and spatial reasoning in VLMs and Robotics.*
-
-*   🔥 **[RoboCOIN]** [RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation](https://flagopen.github.io/RoboCOIN)
-*   🏛️ **[ICLR 2026]** [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/)
+*   🤖 **[EAI-100 TOP-10 Datasets in 2025]** [RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation](https://flagopen.github.io/RoboCOIN)
+*   🤖 **[ICLR 2026]** [Policy Contrastive Decoding for Robotic Foundation Models](https://koorye.github.io/PCD/)
 *   🤖 **[ICRA 2026]** [InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning](https://koorye.github.io/Inspire/)
 *   🖼️ **[IJCV 2026]** [A Closer Look at Conditional Prompt Tuning for Vision-Language Models](https://github.com/Koorye/CaPT)
-*   ⚡ **[CVPR 2025]** [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters](https://github.com/Koorye/SkipTuning)
-*   🛠️ **[CVPR 2024]** [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT)
+*   🖼️ **[CVPR 2025]** [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters](https://github.com/Koorye/SkipTuning)
+*   🖼️ **[CVPR 2024]** [DePT: Decoupled Prompt Tuning](https://github.com/Koorye/DePT)
 
 ---
 
@@ -59,7 +48,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koorye&layout=compact&theme=transparent&hide_border=true" />
+  <img src="profile/stats.svg" width="100%" />
 </p>
 
 <p align="center">
