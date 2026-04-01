@@ -8,10 +8,10 @@
 <p>你好！我是<b>电子科技大学</b> (UESTC) 计算机科学与工程学院的硕士研究生。</p>
 <p><b>研究方向：</b> 具身智能 (VLA)、视觉语言模型 (VLM)。</p>
 <p>
-  <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/电子邮箱-shihan.wu.koorye@outlook.com-blue?style=flat-square&logo=microsoftoutlook" /></a>
-  <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/个人主页-点击访问-orange?style=flat-square&logo=googlechrome" /></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ"><img src="https://img.shields.io/badge/谷歌学术-个人档案-red?style=flat-square&logo=googlescholar" /></a>
-  <a href="https://www.linkedin.com/in/shihan-wu-koorye/"><img src="https://img.shields.io/badge/LinkedIn-建立联系-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/电子邮箱-shihan.wu.koorye@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" /></a>
+  <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/个人主页-点击访问-orange?style=for-the-badge&logo=googlechrome" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ"><img src="https://img.shields.io/badge/谷歌学术-个人档案-red?style=for-the-badge&logo=googlescholar" /></a>
+  <a href="https://www.linkedin.com/in/shihan-wu-koorye/"><img src="https://img.shields.io/badge/LinkedIn-建立联系-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---

@@ -10,17 +10,17 @@
 <p>Hello! I am an MS student at <b>University of Electronic Science and Technology of China</b> (UESTC).
 <p><b>Focus:</b> Embodied Intelligence (VLA), Vision-Language Models (VLM).</p>
 <p>
-  <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=flat-square&logo=microsoftoutlook" /></a>
-  <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/Homepage-Click-orange?style=flat-square&logo=googlechrome" /></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ"><img src="https://img.shields.io/badge/Scholar-Profile-red?style=flat-square&logo=googlescholar" /></a>
-  <a href="https://www.linkedin.com/in/shihan-wu-koorye/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" /></a>
+  <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/Homepage-Click-orange?style=for-the-badge&logo=googlechrome" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=7VCaV5EAAAAJ"><img src="https://img.shields.io/badge/Scholar-Profile-red?style=for-the-badge&logo=googlescholar" /></a>
+  <a href="https://www.linkedin.com/in/shihan-wu-koorye/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
 ### 📢 News
 
-- **[Mar. 2026]** 🎉 Our **RoboCOIN** dataset has been rated as a <b style="color: #e74c3c;">EAI-100 Top-10 Dataset in 2025</b> by ModelScope and CCF TCIR!
+- **[Mar. 2026]** 🎉 Our **RoboCOIN** dataset has been rated as a **EAI-100 Top-10 Dataset in 2025** by ModelScope and CCF TCIR!
 - **[Mar. 2026]** 🖋️ I was invited to serve as a reviewer for **BMVC 2026**.
 - **[Mar. 2026]** 📈 Our **RoboCOIN** dataset has reached **4,000,000+** total downloads!
 - **[Feb. 2026]** 🚀 Paper **InSpire** (Intrinsic Spatial Reasoning for VLAs) accepted by **ICRA 2026**!
