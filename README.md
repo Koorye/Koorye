@@ -114,11 +114,31 @@
   <tr>
     <td width="50%" align="center">
       <img src="gallery/baai.png" width="100%" />
-      <p><b>BAAI</b></p>
+      <p><b>BAAI Internship</b></p>
     </td>
     <td width="50%" align="center">
       <img src="gallery/uestc.png" width="100%" />
       <p><b>UESTC</b></p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="gallery/xiaomi.jpg" width="100%" />
+      <p>Xiaomi Top Fresh Graduate Exchange Forum</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="gallery/agibot.jpg" width="100%" />
+      <p>Agibot Elite Program Visit</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="gallery/galbot.jpg" width="100%" />
+      <p>Visiting Galbot Company</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="gallery/ailab.jpg" width="100%" />
+      <p>Shanghai AI Laboratory Talent Exchange Forum</p>
     </td>
   </tr>
 </table>

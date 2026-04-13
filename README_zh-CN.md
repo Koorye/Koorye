@@ -111,11 +111,31 @@
   <tr>
     <td width="50%" align="center">
       <img src="gallery/baai.png" width="100%" />
-      <p><b>北京智源人工智能研究院</b></p>
+      <p><b>北京智源人工智能研究院实习</b></p>
     </td>
     <td width="50%" align="center">
       <img src="gallery/uestc.png" width="100%" />
       <p><b>电子科技大学</b></p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="gallery/xiaomi.jpg" width="100%" />
+      <p>小米顶尖应届交流会</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="gallery/agibot.jpg" width="100%" />
+      <p>智元机器人优才计划参观行</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="gallery/galbot.jpg" width="100%" />
+      <p>参观银河通用机器人公司</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="gallery/ailab.jpg" width="100%" />
+      <p>上海人工智能实验室人才交流会</p>
     </td>
   </tr>
 </table>
