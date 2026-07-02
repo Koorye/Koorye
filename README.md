@@ -1,14 +1,14 @@
 <p align="center">
   <img src="banner.png" />
-  ↑ This is Zhongguancun Science & Technology Park in Beijing where I interned in summer 2025 ↑
+  ↑ This is Zhongguancun Science & Technology Park in Beijing, where I work ↑
 </p>
 
 [English](./README.md) | [中文](./README_zh-CN.md)
 
 ## 👨‍🔬 About Me
 
-<p>Hello! I am an MS student at <b>University of Electronic Science and Technology of China</b> (UESTC).
-<p><b>Focus:</b> Embodied Intelligence (VLA), Vision-Language Models (VLM).</p>
+<p>Hello! I am a <b>Researcher</b> at <b>Beijing Academy of Artificial Intelligence (BAAI)</b>!</p>
+<p><b>Research Focus:</b> Embodied Intelligence (VLA), Vision-Language Models (VLM).</p>
 <p>
   <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" /></a>
   <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/Homepage-Click-orange?style=for-the-badge&logo=googlechrome" /></a>
@@ -20,10 +20,11 @@
 
 ### 📢 News
 
+- **[Jul. 2026]** 🎉 Our **RoboCOIN** dataset has reached **7,000,000+** total downloads!
+- **[Jun. 2026]** 🔭 I officially joined **Beijing Academy of Artificial Intelligence (BAAI)** as an **Embodied Intelligence Researcher**!
+- **[Jun. 2026]** 🎓️ I received my **Master's degree** from **UESTC**!
 - **[Mar. 2026]** 🎉 Our **RoboCOIN** dataset has been rated as a **EAI-100 Top-10 Dataset in 2025** by ModelScope and CCF TCIR!
 - **[Mar. 2026]** 🖋️ I was invited to serve as a reviewer for **BMVC 2026**.
-- **[Mar. 2026]** 📈 Our **RoboCOIN** dataset has reached **4,000,000+** total downloads!
-- **[Feb. 2026]** 🚀 Paper **InSpire** (Intrinsic Spatial Reasoning for VLAs) accepted by **ICRA 2026**!
 
 <b>🔍 Media Reports & Coverage</b>
 
@@ -41,8 +42,9 @@
 
 ### 💼 Experience
 
-- 🏢 **Research Intern** · Beijing Academy of Artificial Intelligence (BAAI) · *2025.06 - Present*
-- 🎓 **Master's Student** · UESTC, Computer Science · *2023.09 - Present*
+- 🏢 **Researcher** · Beijing Academy of Artificial Intelligence (BAAI) · *2026.06 - Present*
+- 🏢 **Research Intern** · Beijing Academy of Artificial Intelligence (BAAI) · *2025.06 - 2026.06*
+- 🎓 **Master's Student** · UESTC, Computer Science · *2023.09 - 2026.06*
   - 🏆National Scholarship (2024), 🏅Sichuan Province Outstanding Graduate (2026)
 - 🎓 **Bachelor of SE** · UESTC, Software Engineering · *2019.09 - 2023.06*
   - 🏅UESTC Outstanding Graduate (2023), 🏆"Shiqiang" Special Scholarship (2022)
@@ -72,7 +74,7 @@
     * Parameter-free adaptation method, **+1.04%** accuracy with **15x** speedup and **6.4x** memory efficiency.
 
 * 🖼️ **[CVPR 2024]** **DePT: Decoupled Prompt Tuning**  
-[[arXiv]](https://arxiv.org/abs/2309.07439) [[PDF]](https://arxiv.org/pdf/2309.07439) [[Code]](https://github.com/Koorye/DePT/) ![Stars](https://img.shields.io/github/stars/Koorye/DePT?style=flat-square&logo=github)
+  [[arXiv]](https://arxiv.org/abs/2309.07439) [[PDF]](https://arxiv.org/pdf/2309.07439) [[Code]](https://github.com/Koorye/DePT/) ![Stars](https://img.shields.io/github/stars/Koorye/DePT?style=flat-square&logo=github)
     * Plug-and-play method providing **+0.67%~2.65% gains** across various prompt tuning baselines.
 
 ---
@@ -114,11 +116,11 @@
   <tr>
     <td width="50%" align="center">
       <img src="gallery/baai.png" width="100%" />
-      <p><b>BAAI Internship</b></p>
+      <p><b>Beijing Academy of Artificial Intelligence</b></p>
     </td>
     <td width="50%" align="center">
       <img src="gallery/uestc.png" width="100%" />
-      <p><b>UESTC</b></p>
+      <p><b>University of Electronic Science and Technology of China</b></p>
     </td>
   </tr>
 </table>

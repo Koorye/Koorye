@@ -1,12 +1,14 @@
 <p align="center">
   <img src="banner.png" />
-  ↑ 这是我在 2025 年夏天实习的北京中关村科技园 ↑
+  ↑ 这是我的工作地点：北京中关村科技园 ↑
 </p>
 
 ## 👨‍🔬 关于我
 
-<p>你好！我是<b>电子科技大学</b> (UESTC) 计算机科学与工程学院的硕士研究生。</p>
-<p><b>研究方向：</b> 具身智能 (VLA)、视觉语言模型 (VLM)。</p>
+你好！我是**北京智源人工智能研究院** **(Beijing Academy of Artificial Intelligence, BAAI)** 的**研究员**！
+
+**研究方向**：具身智能 (VLA)、视觉语言模型 (VLM)。
+
 <p>
   <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/电子邮箱-shihan.wu.koorye@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" /></a>
   <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/个人主页-点击访问-orange?style=for-the-badge&logo=googlechrome" /></a>
@@ -18,10 +20,11 @@
 
 ### 📢 最新动态
 
+- **[2026.07]** 🎉 我们的 **RoboCOIN** 数据集下载量突破 **7,000,000** 次！
+- **[2026.06]** 🔭 我正式加入**北京智源人工智能研究院**，担任**具身智能研究员**！
+- **[2026.06]** 🎓️ 我在**电子科技大学**获得硕士学位！
 - **[2026.03]** 🎉 我们的 **RoboCOIN** 数据集入选 ModelScope 与 CCF TCIR 评选的 <b style="color: #e74c3c;">EAI-100 2025 年度十大数据集</b>！
 - **[2026.03]** 🖋️ 受邀担任 **BMVC 2026** 审稿人。
-- **[2026.03]** 📈 **RoboCOIN** 数据集累计下载量已突破 **4,000,000** 次！
-- **[2026.02]** 🚀 论文 **InSpire** (关于 VLA 内在空间推理的研究) 被 **ICRA 2026** 接收！
 
 <b>🔍 媒体报道与专题</b>
 
@@ -39,8 +42,9 @@
 
 ### 💼 个人经历
 
-- 🏢 **研究实习生** · 北京智源人工智能研究院 (BAAI) · *2025.06 - 至今*
-- 🎓 **硕士研究生** · 电子科技大学，计算机科学与技术 · *2023.09 - 至今*
+- 🏢 **研究员** · 北京智源人工智能研究院 (BAAI) · *2026.06 - 至今*
+- 🏢 **研究实习生** · 北京智源人工智能研究院 (BAAI) · *2025.06 - 2026.06*
+- 🎓 **硕士研究生** · 电子科技大学，计算机科学与技术 · *2023.09 - 2026.06*
   - 🏆国家奖学金（2024），🏅四川省优秀毕业生（2026）
 - 🎓 **工学学士** · 电子科技大学，软件工程 · *2019.09 - 2023.06*
   - 🏅电子科技大学优秀毕业生（2023），🏆“世强”专项奖学金（2022）
@@ -111,7 +115,7 @@
   <tr>
     <td width="50%" align="center">
       <img src="gallery/baai.png" width="100%" />
-      <p><b>北京智源人工智能研究院实习</b></p>
+      <p><b>北京智源人工智能研究院</b></p>
     </td>
     <td width="50%" align="center">
       <img src="gallery/uestc.png" width="100%" />
