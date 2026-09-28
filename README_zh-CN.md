@@ -11,7 +11,7 @@
 
 **研究方向**：具身智能、视觉语言模型。
 
-我已在 **CVPR**、**ICCV**、**ICRA** 等顶级会议发表多篇论文，总引用量超过 **300 次**；开源数据集已被全球 **360+ 家机构**使用，下载量超过 **5000 万次**。曾担任 **ICLR**、**NeurIPS**、**BMVC** 等国际会议审稿人。欢迎通过邮件与我联系，交流合作！
+我已在 **CVPR**、**ICLR**、**ICRA** 等顶级会议发表多篇论文，总引用量超过 **300 次**；开源数据集已被全球 **360+ 家机构**使用，下载量超过 **5000 万次**。受邀担任 **NeurIPS**、**ICLR**、**TPAMI** 等国际会议及期刊审稿人。欢迎通过邮件与我联系，交流合作！
 
 <p>
   <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/电子邮箱-shihan.wu.koorye@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" /></a>

@@ -9,7 +9,7 @@
 
 <p>Hello! I am an <b>Embodied Intelligence Researcher</b> at <b>Beijing Academy of Artificial Intelligence (BAAI)</b>, and I received my Master's degree from the <b>School of Computer Science and Engineering</b> of <b>University of Electronic Science and Technology of China (UESTC)</b>.</p>
 <p><b>Research Interests:</b> Embodied Intelligence, Vision-Language Models.</p>
-<p>I have published several papers in top-tier conferences such as <b>CVPR</b>, <b>ICCV</b>, and <b>ICRA</b>. My papers have received over <b>300 citations</b>, and my open-source datasets have been used by <b>360+ institutions</b> worldwide with over <b>50,000,000 downloads</b>. I have served as a reviewer for international conferences like <b>ICLR</b>, <b>NeurIPS</b>, and <b>BMVC</b>. Feel free to reach out to me via email for any inquiries or collaborations!</p>
+<p>I have published several papers in top-tier conferences such as <b>CVPR</b>, <b>ICLR</b>, and <b>ICRA</b>. My papers have received over <b>300 citations</b>, and my open-source datasets have been used by <b>360+ institutions</b> worldwide with over <b>50,000,000 downloads</b>. I have been invited to serve as a reviewer for <b>NeurIPS</b>, <b>ICLR</b>, and <b>TPAMI</b>. Feel free to reach out to me via email for any inquiries or collaborations!</p>
 <p>
   <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" /></a>
   <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/Homepage-Click-orange?style=for-the-badge&logo=googlechrome" /></a>
