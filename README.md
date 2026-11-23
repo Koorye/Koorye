@@ -81,30 +81,86 @@ Rank 18/181 · Outstanding Graduate (2023) · "Shiqiang" Special Scholarship (20
 12,500 hours of egocentric manipulation data across 38 scene classes, built with 30 institutions; includes gaze, sEMG, and EEG intent tiers.<br>
 [Project](https://flagopen.github.io/HumanCOIN/) · [arXiv](https://arxiv.org/abs/2611.26434) · [PDF](https://arxiv.org/pdf/2611.26434) · [Code](https://github.com/FlagOpen/HumanCOIN/)
 
+<details>
+<summary><b>Read more</b></summary>
+
+<img src="papers/humancoin.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — A 12,500-hour egocentric manipulation dataset across 38 scene classes and 30 institutions, with synchronized gaze, sEMG, and EEG signals for intent-aware embodied learning.
+</details>
+
 🤖 **RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**<br>
 *2025*<br>
 Open-source bimanual dataset with 15 embodiments and 180K+ demonstrations, built with 20 institutions; used by 360+ institutions, with 100M+ cumulative downloads across released datasets.<br>
 [Project](https://flagopen.github.io/RoboCOIN/) · [arXiv](https://arxiv.org/abs/2511.17441) · [PDF](https://arxiv.org/pdf/2511.17441) · [Code](https://github.com/FlagOpen/RoboCOIN/)
 
+<details>
+<summary><b>Read more</b></summary>
+
+<img src="papers/robocoin.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — An open-source bimanual manipulation dataset with 15 embodiments and 180K+ demonstrations, with hierarchical skill annotations and 360+ institutional users.
+</details>
+
 🤖 **[ICLR 2026]** **Policy Contrastive Decoding for Robotic Foundation Models**<br>
 Training-free policy contrastive decoding across VLA models; +8%–41% gains on multiple backbones.<br>
 [Project](https://koorye.github.io/PCD) · [arXiv](https://arxiv.org/abs/2505.13255) · [PDF](https://arxiv.org/pdf/2505.13255) · [Code](https://github.com/Koorye/PCD/)
+
+<details>
+<summary><b>Read more</b></summary>
+
+<img src="papers/pcd.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — A training-free decoding method that contrasts policy distributions across VLA architectures, improving performance by 8–41% without additional training.
+</details>
 
 🤖 **[ICRA 2026]** **InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**<br>
 Intrinsic spatial reasoning reduces spurious VLA correlations; +6.2% on seen and +10% on unseen tasks.<br>
 [Project](https://koorye.github.io/Inspire) · [arXiv](https://arxiv.org/abs/2505.13888) · [PDF](https://arxiv.org/pdf/2505.13888) · [Code](https://github.com/Koorye/Inspire/)
 
+<details>
+<summary><b>Read more</b></summary>
+
+<img src="papers/inspire.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — An intrinsic spatial reasoning approach for VLA models that reduces spurious correlations and improves seen (+6.2%) and unseen (+10%) task performance.
+</details>
+
 🖼️ **[CVPR 2025]** **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**<br>
 Parameter-free VLM adaptation: +1.04% accuracy, 15× faster, and 6.4× lower memory footprint.<br>
 [Project](https://koorye.github.io/SkipTuning/) · [arXiv](https://arxiv.org/abs/2412.11509) · [PDF](https://arxiv.org/pdf/2412.11509) · [Code](https://github.com/Koorye/SkipTuning)
+
+<details>
+<summary><b>Read more</b></summary>
+
+<img src="papers/skiptuning.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — A parameter-free adaptation method that turns pre-trained VLMs into effective and efficient adapters, improving accuracy while reducing inference time and memory.
+</details>
 
 🖼️ **[IJCV 2026]** **A Closer Look at Conditional Prompt Tuning for Vision-Language Models**<br>
 Conditional prompt tuning for VLMs; +3.49% over the prior state of the art.<br>
 [arXiv](https://arxiv.org/abs/2506.23856) · [PDF](https://arxiv.org/pdf/2506.23856) · [Code](https://github.com/Koorye/CaPT/)
 
+<details>
+<summary><b>Read more</b></summary>
+
+<img src="papers/capt.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — A conditional prompt tuning method for VLMs that fixes key limitations of prior conditional PT and improves the state of the art by 3.49%.
+</details>
+
 🖼️ **[CVPR 2024]** **DePT: Decoupled Prompt Tuning**<br>
 Plug-and-play decoupled prompt tuning; +0.67%–2.65% over prompt-tuning baselines.<br>
 [Project](https://koorye.github.io/DePT/) · [arXiv](https://arxiv.org/abs/2309.07439) · [PDF](https://arxiv.org/pdf/2309.07439) · [Code](https://github.com/Koorye/DePT/)
+
+<details>
+<summary><b>Read more</b></summary>
+
+<img src="papers/dept.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — A plug-and-play decoupled prompt tuning method that consistently improves diverse prompt-tuning baselines by 0.67–2.65%.
+</details>
 
 ## Awards
 

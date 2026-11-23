@@ -81,30 +81,86 @@
 12,500 小时第一人称操作数据，覆盖 38 个场景类别，由 30 家机构联合构建；包含注视、表面肌电与脑电三层意图信号。<br>
 [项目主页](https://flagopen.github.io/HumanCOIN/) · [arXiv](https://arxiv.org/abs/2611.26434) · [PDF](https://arxiv.org/pdf/2611.26434) · [代码](https://github.com/FlagOpen/HumanCOIN/)
 
+<details>
+<summary><b>展开查看</b></summary>
+
+<img src="papers/humancoin.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — 12,500 小时第一人称操作数据集，覆盖 38 个场景类别与 30 家机构，包含同步的注视、表面肌电与脑电信号，用于意图感知的具身学习。
+</details>
+
 🤖 **RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**<br>
 *2025*<br>
 开源双臂机器人数据集，涵盖 15 个本体与 18 万+ 演示数据，由 20 家机构联合构建；已被 360+ 家机构使用，发布的数据集累计下载量超过 1 亿次。<br>
 [项目主页](https://flagopen.github.io/RoboCOIN/) · [arXiv](https://arxiv.org/abs/2511.17441) · [PDF](https://arxiv.org/pdf/2511.17441) · [代码](https://github.com/FlagOpen/RoboCOIN/)
 
+<details>
+<summary><b>展开查看</b></summary>
+
+<img src="papers/robocoin.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — 开源双臂操作数据集，涵盖 15 个本体、18 万+ 演示与层次化技能标注，已被 360+ 家机构使用。
+</details>
+
 🤖 **[ICLR 2026]** **Policy Contrastive Decoding for Robotic Foundation Models**<br>
 面向多种 VLA 架构的免训练策略对比解码，无需训练即可获得 +8%–41% 的性能提升。<br>
 [项目主页](https://koorye.github.io/PCD) · [arXiv](https://arxiv.org/abs/2505.13255) · [PDF](https://arxiv.org/pdf/2505.13255) · [代码](https://github.com/Koorye/PCD/)
+
+<details>
+<summary><b>展开查看</b></summary>
+
+<img src="papers/pcd.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — 一种免训练的策略对比解码方法，在多种 VLA 架构上通过对比策略分布获得 8%–41% 的性能提升。
+</details>
 
 🤖 **[ICRA 2026]** **InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**<br>
 引入内在空间推理减轻 VLA 的虚假相关性，在可见任务上提升 +6.2%、未见任务上提升 +10%。<br>
 [项目主页](https://koorye.github.io/Inspire) · [arXiv](https://arxiv.org/abs/2505.13888) · [PDF](https://arxiv.org/pdf/2505.13888) · [代码](https://github.com/Koorye/Inspire/)
 
+<details>
+<summary><b>展开查看</b></summary>
+
+<img src="papers/inspire.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — 为 VLA 模型引入内在空间推理，减轻虚假相关性，在可见任务上提升 +6.2%、未见任务上提升 +10%。
+</details>
+
 🖼️ **[CVPR 2025]** **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**<br>
 无需额外参数的 VLM 适配方法：+1.04% 精度、15× 加速、6.4× 内存效率。<br>
 [项目主页](https://koorye.github.io/SkipTuning/) · [arXiv](https://arxiv.org/abs/2412.11509) · [PDF](https://arxiv.org/pdf/2412.11509) · [代码](https://github.com/Koorye/SkipTuning)
+
+<details>
+<summary><b>展开查看</b></summary>
+
+<img src="papers/skiptuning.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — 一种无参数适配方法，将预训练 VLM 转化为高效适配器，在提升精度的同时降低推理时间与内存。
+</details>
 
 🖼️ **[IJCV 2026]** **A Closer Look at Conditional Prompt Tuning for Vision-Language Models**<br>
 面向 VLM 的文本条件提示调优，相较此前条件 PT 最优方法提升 +3.49%。<br>
 [arXiv](https://arxiv.org/abs/2506.23856) · [PDF](https://arxiv.org/pdf/2506.23856) · [代码](https://github.com/Koorye/CaPT/)
 
+<details>
+<summary><b>展开查看</b></summary>
+
+<img src="papers/capt.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — 面向 VLM 的条件提示调优方法，解决已有条件 PT 的关键问题，并将最优结果提升 +3.49%。
+</details>
+
 🖼️ **[CVPR 2024]** **DePT: Decoupled Prompt Tuning**<br>
 即插即用的解耦提示调优方法，在多种提示调优基线上普遍提升 +0.67%–2.65%。<br>
 [项目主页](https://koorye.github.io/DePT/) · [arXiv](https://arxiv.org/abs/2309.07439) · [PDF](https://arxiv.org/pdf/2309.07439) · [代码](https://github.com/Koorye/DePT/)
+
+<details>
+<summary><b>展开查看</b></summary>
+
+<img src="papers/dept.png" alt="Publication cover" width="100%" />
+
+**TL;DR** — 即插即用的解耦提示调优方法，在多种提示调优基线上稳定提升 0.67%–2.65%。
+</details>
 
 ## 荣誉奖项
 
