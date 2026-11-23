@@ -35,8 +35,7 @@
 
 ## 最新动态
 
-<details>
-<summary><b>媒体报道与专题</b> · 点击查看更多</summary>
+### 媒体报道与专题
 
 - <img src="media/modelscope.png" height="18" align="middle" alt="魔搭社区 logo" />&nbsp;**魔搭社区** — [智源 RoboCOIN 数据集正式开源！](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
 - <img src="media/modelscope.png" height="18" align="middle" alt="魔搭社区 logo" />&nbsp;**魔搭社区** — [EAI-100: 2025 具身智能白皮书百强成果与人物入选](https://www.modelscope.cn/learn/6060#4ever-bi-513)
@@ -48,7 +47,7 @@
 - <img src="media/llmphd.png" height="18" align="middle" alt="LLMPhD logo" />&nbsp;**LLMPhD** — [成电 & 同济 Skip Tuning: 视觉语言模型的轻量化适配方案](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
 - <img src="media/rt.png" height="18" align="middle" alt="机器人大讲堂 logo" />&nbsp;**机器人大讲堂** — [智源 RoboCOIN: 带有细粒度标注的最大规模真实世界双臂数据集](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
 
-</details>
+### 近期动态
 
 - **2026.11** — HumanCOIN 数据集正式发布。
 - **2026.11** — 开源数据集累计下载量突破 1 亿次。
