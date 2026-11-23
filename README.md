@@ -36,7 +36,7 @@ Current work centers on **HumanCOIN** (12,500 hours of egocentric manipulation d
 ## News
 
 <details>
-<summary>Media Coverage</summary>
+<summary><b>Media Coverage</b> · Click to view more</summary>
 
 - **ModelScope Community** — [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
 - **ModelScope Community** — [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)

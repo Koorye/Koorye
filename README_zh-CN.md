@@ -36,7 +36,7 @@
 ## 最新动态
 
 <details>
-<summary>媒体报道与专题</summary>
+<summary><b>媒体报道与专题</b> · 点击查看更多</summary>
 
 - **魔搭社区** — [智源 RoboCOIN 数据集正式开源！](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
 - **魔搭社区** — [EAI-100: 2025 具身智能白皮书百强成果与人物入选](https://www.modelscope.cn/learn/6060#4ever-bi-513)
