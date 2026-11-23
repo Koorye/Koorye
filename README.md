@@ -60,18 +60,18 @@ Current work centers on **HumanCOIN** (12,500 hours of egocentric manipulation d
 
 ## Experience
 
-<img src="gallery/baai.png" height="20" align="middle" alt="BAAI logo" />&nbsp;**Embodied Intelligence Researcher** · Beijing Academy of Artificial Intelligence (BAAI) · *Jun 2026 – Present*<br>
+<img src="logos/baai.png" height="24" align="middle" alt="BAAI logo" />&nbsp;**Embodied Intelligence Researcher** · Beijing Academy of Artificial Intelligence (BAAI) · *Jun 2026 – Present*<br>
 Lead HumanCOIN and research on efficient VLA learning, with a focus on intent-aware manipulation data.
 
-<img src="gallery/baai.png" height="20" align="middle" alt="BAAI logo" />&nbsp;**Research Intern** · Beijing Academy of Artificial Intelligence (BAAI) · *Jun 2025 – Jun 2026*<br>
+<img src="logos/baai.png" height="24" align="middle" alt="BAAI logo" />&nbsp;**Research Intern** · Beijing Academy of Artificial Intelligence (BAAI) · *Jun 2025 – Jun 2026*<br>
 Led RoboCOIN (20 institutions, 15 embodiments, 180K+ demonstrations); research on Embodied Intelligence and VLA models.
 
 ## Education
 
-<img src="gallery/uestc.png" height="20" align="middle" alt="UESTC logo" />&nbsp;**M.Eng. in Computer Science and Technology** · University of Electronic Science and Technology of China (UESTC) · *Sep 2023 – Jun 2026*<br>
+<img src="logos/uestc.png" height="24" align="middle" alt="UESTC logo" />&nbsp;**M.Eng. in Computer Science and Technology** · University of Electronic Science and Technology of China (UESTC) · *Sep 2023 – Jun 2026*<br>
 Rank 6/454 · National Scholarship (2024) · Sichuan Outstanding Graduate (2026)
 
-<img src="gallery/uestc.png" height="20" align="middle" alt="UESTC logo" />&nbsp;**B.Eng. in Software Engineering** · University of Electronic Science and Technology of China (UESTC) · *Sep 2019 – Jun 2023*<br>
+<img src="logos/uestc.png" height="24" align="middle" alt="UESTC logo" />&nbsp;**B.Eng. in Software Engineering** · University of Electronic Science and Technology of China (UESTC) · *Sep 2019 – Jun 2023*<br>
 Rank 18/181 · Outstanding Graduate (2023) · "Shiqiang" Special Scholarship (2022)
 
 ## Publications

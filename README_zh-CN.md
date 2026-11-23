@@ -60,18 +60,18 @@
 
 ## 工作经历
 
-<img src="gallery/baai.png" height="20" align="middle" alt="BAAI logo" />&nbsp;**具身智能研究员** · 北京智源人工智能研究院（BAAI） · *2026.06 – 至今*<br>
+<img src="logos/baai.png" height="24" align="middle" alt="BAAI logo" />&nbsp;**具身智能研究员** · 北京智源人工智能研究院（BAAI） · *2026.06 – 至今*<br>
 主导 HumanCOIN，研究 VLA 的高效学习范式，重点关注意图感知的机器人操作数据。
 
-<img src="gallery/baai.png" height="20" align="middle" alt="BAAI logo" />&nbsp;**研究实习生** · 北京智源人工智能研究院（BAAI） · *2025.06 – 2026.06*<br>
+<img src="logos/baai.png" height="24" align="middle" alt="BAAI logo" />&nbsp;**研究实习生** · 北京智源人工智能研究院（BAAI） · *2025.06 – 2026.06*<br>
 主导 RoboCOIN（20 家机构、15 个本体、18 万+ 演示数据）；从事具身智能与 VLA 研究。
 
 ## 教育经历
 
-<img src="gallery/uestc.png" height="20" align="middle" alt="UESTC logo" />&nbsp;**计算机科学与技术 · 学术硕士** · 电子科技大学（UESTC） · *2023.09 – 2026.06*<br>
+<img src="logos/uestc.png" height="24" align="middle" alt="UESTC logo" />&nbsp;**计算机科学与技术 · 学术硕士** · 电子科技大学（UESTC） · *2023.09 – 2026.06*<br>
 排名 6/454 · 国家奖学金（2024） · 四川省优秀毕业生（2026）
 
-<img src="gallery/uestc.png" height="20" align="middle" alt="UESTC logo" />&nbsp;**软件工程 · 工学学士** · 电子科技大学（UESTC） · *2019.09 – 2023.06*<br>
+<img src="logos/uestc.png" height="24" align="middle" alt="UESTC logo" />&nbsp;**软件工程 · 工学学士** · 电子科技大学（UESTC） · *2019.09 – 2023.06*<br>
 排名 18/181 · 优秀毕业生（2023） · “世强”专项奖学金（2022）
 
 ## 发表论文
