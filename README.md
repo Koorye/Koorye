@@ -43,6 +43,18 @@ Current work centers on **HumanCOIN** (12,500 hours of egocentric manipulation d
 - **May. 2026** — CCF YEF 2026 Best Academic Presentation Award (Master's Group).
 - **Mar. 2026** — RoboCOIN selected as an EAI-100 Top-10 Dataset in 2025.
 
+### Media Coverage
+
+- **ModelScope Community** — [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
+- **ModelScope Community** — [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
+- **Aiorang Open Class** — [RoboCOIN: Large-scale Dual-Arm Robot Dataset for Unified Manipulation](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
+- **AgileX Robotics** — [BAAI builds the first large-scale multi-embodiment dual-arm manipulation data infrastructure](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
+- **Embodied AI Heart** — [PCD: Training-free & Plug-and-Play VLA](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
+- **DeepBlue Embodied AI** — [Breaking VLA spurious correlations](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
+- **Multimodal Space** — [CoT-enhanced spatial reasoning for VLAs](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
+- **LLMPhD** — [Skip Tuning: Lightweight adaptation for vision-language models](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
+- **Robot Lecture Hall** — [BAAI RoboCOIN: Largest real-world dual-arm dataset with fine-grained annotations](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
+
 ## Experience
 
 **Embodied Intelligence Researcher** · Beijing Academy of Artificial Intelligence (BAAI) · *Jun 2026 – Present*<br>
@@ -61,38 +73,33 @@ Rank 18/181 · Outstanding Graduate (2023) · "Shiqiang" Special Scholarship (20
 
 ## Publications
 
-**HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation**<br>
-*Robotics · 2026*<br>
+🤖 **HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation**<br>
+*2026*<br>
 12,500 hours of egocentric manipulation data across 38 scene classes, built with 30 institutions; includes gaze, sEMG, and EEG intent tiers.<br>
 [Project](https://flagopen.github.io/HumanCOIN/) · [arXiv](https://arxiv.org/abs/2611.26434) · [PDF](https://arxiv.org/pdf/2611.26434) · [Code](https://github.com/FlagOpen/HumanCOIN/)
 
-**RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**<br>
-*Robotics · 2025*<br>
+🤖 **RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**<br>
+*2025*<br>
 Open-source bimanual dataset with 15 embodiments and 180K+ demonstrations, built with 20 institutions; used by 360+ institutions, with 100M+ cumulative downloads across released datasets.<br>
 [Project](https://flagopen.github.io/RoboCOIN/) · [arXiv](https://arxiv.org/abs/2511.17441) · [PDF](https://arxiv.org/pdf/2511.17441) · [Code](https://github.com/FlagOpen/RoboCOIN/)
 
-**Policy Contrastive Decoding for Robotic Foundation Models**<br>
-*Robotics · ICLR 2026*<br>
+🤖 **[ICLR 2026]** **Policy Contrastive Decoding for Robotic Foundation Models**<br>
 Training-free policy contrastive decoding across VLA models; +8%–41% gains on multiple backbones.<br>
 [Project](https://koorye.github.io/PCD) · [arXiv](https://arxiv.org/abs/2505.13255) · [PDF](https://arxiv.org/pdf/2505.13255) · [Code](https://github.com/Koorye/PCD/)
 
-**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**<br>
-*Robotics · ICRA 2026*<br>
+🤖 **[ICRA 2026]** **InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**<br>
 Intrinsic spatial reasoning reduces spurious VLA correlations; +6.2% on seen and +10% on unseen tasks.<br>
 [Project](https://koorye.github.io/Inspire) · [arXiv](https://arxiv.org/abs/2505.13888) · [PDF](https://arxiv.org/pdf/2505.13888) · [Code](https://github.com/Koorye/Inspire/)
 
-**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**<br>
-*VLM · CVPR 2025*<br>
+🖼️ **[CVPR 2025]** **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**<br>
 Parameter-free VLM adaptation: +1.04% accuracy, 15× faster, and 6.4× lower memory footprint.<br>
 [Project](https://koorye.github.io/SkipTuning/) · [arXiv](https://arxiv.org/abs/2412.11509) · [PDF](https://arxiv.org/pdf/2412.11509) · [Code](https://github.com/Koorye/SkipTuning)
 
-**A Closer Look at Conditional Prompt Tuning for Vision-Language Models**<br>
-*VLM · IJCV 2026*<br>
+🖼️ **[IJCV 2026]** **A Closer Look at Conditional Prompt Tuning for Vision-Language Models**<br>
 Conditional prompt tuning for VLMs; +3.49% over the prior state of the art.<br>
 [arXiv](https://arxiv.org/abs/2506.23856) · [PDF](https://arxiv.org/pdf/2506.23856) · [Code](https://github.com/Koorye/CaPT/)
 
-**DePT: Decoupled Prompt Tuning**<br>
-*VLM · CVPR 2024*<br>
+🖼️ **[CVPR 2024]** **DePT: Decoupled Prompt Tuning**<br>
 Plug-and-play decoupled prompt tuning; +0.67%–2.65% over prompt-tuning baselines.<br>
 [Project](https://koorye.github.io/DePT/) · [arXiv](https://arxiv.org/abs/2309.07439) · [PDF](https://arxiv.org/pdf/2309.07439) · [Code](https://github.com/Koorye/DePT/)
 
@@ -151,20 +158,6 @@ Plug-and-play decoupled prompt tuning; +0.67%–2.65% over prompt-tuning baselin
   </tr>
 </table>
 
-<details>
-<summary>Selected media coverage</summary>
-
-- **ModelScope Community** — [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
-- **ModelScope Community** — [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
-- **Aiorang Open Class** — [RoboCOIN: Large-scale Dual-Arm Robot Dataset for Unified Manipulation](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
-- **AgileX Robotics** — [BAAI builds the first large-scale multi-embodiment dual-arm manipulation data infrastructure](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
-- **Embodied AI Heart** — [PCD: Training-free & Plug-and-Play VLA](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
-- **DeepBlue Embodied AI** — [Breaking VLA spurious correlations](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
-- **Multimodal Space** — [CoT-enhanced spatial reasoning for VLAs](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
-- **LLMPhD** — [Skip Tuning: Lightweight adaptation for vision-language models](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
-- **Robot Lecture Hall** — [BAAI RoboCOIN: Largest real-world dual-arm dataset with fine-grained annotations](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
-
-</details>
 
 ---
 

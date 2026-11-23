@@ -43,6 +43,18 @@
 - **2026.05** — 获 CCF YEF 2026 最佳学术展示奖（硕士组）。
 - **2026.03** — RoboCOIN 入选 EAI-100 2025 年度十大数据集。
 
+### 媒体报道与专题
+
+- **魔搭社区** — [智源 RoboCOIN 数据集正式开源！](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
+- **魔搭社区** — [EAI-100: 2025 具身智能白皮书百强成果与人物入选](https://www.modelscope.cn/learn/6060#4ever-bi-513)
+- **将门创投** — [RoboCOIN: 用于统一操控的大规模双臂机器人数据集](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
+- **松灵机器人** — [智源研究院构建首个大规模多具身双臂操控数据基础设施](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
+- **具身智能之心** — [PCD: 无需训练、即插即用的 VLA](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
+- **深蓝学院** — [打破 VLA 伪相关！简单的空间推理让泛化能力提升 4 倍](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
+- **多模态空间** — [通过推理连接高维空间：思维链增强的 VLA 空间推理](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
+- **LLMPhD** — [成电 & 同济 Skip Tuning: 视觉语言模型的轻量化适配方案](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
+- **机器人大讲堂** — [智源 RoboCOIN: 带有细粒度标注的最大规模真实世界双臂数据集](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
+
 ## 工作经历
 
 **具身智能研究员** · 北京智源人工智能研究院（BAAI） · *2026.06 – 至今*<br>
@@ -61,38 +73,33 @@
 
 ## 发表论文
 
-**HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation**<br>
-*机器人 · 2026*<br>
+🤖 **HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation**<br>
+*2026*<br>
 12,500 小时第一人称操作数据，覆盖 38 个场景类别，由 30 家机构联合构建；包含注视、表面肌电与脑电三层意图信号。<br>
 [项目主页](https://flagopen.github.io/HumanCOIN/) · [arXiv](https://arxiv.org/abs/2611.26434) · [PDF](https://arxiv.org/pdf/2611.26434) · [代码](https://github.com/FlagOpen/HumanCOIN/)
 
-**RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**<br>
-*机器人 · 2025*<br>
+🤖 **RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**<br>
+*2025*<br>
 开源双臂机器人数据集，涵盖 15 个本体与 18 万+ 演示数据，由 20 家机构联合构建；已被 360+ 家机构使用，发布的数据集累计下载量超过 1 亿次。<br>
 [项目主页](https://flagopen.github.io/RoboCOIN/) · [arXiv](https://arxiv.org/abs/2511.17441) · [PDF](https://arxiv.org/pdf/2511.17441) · [代码](https://github.com/FlagOpen/RoboCOIN/)
 
-**Policy Contrastive Decoding for Robotic Foundation Models**<br>
-*机器人 · ICLR 2026*<br>
+🤖 **[ICLR 2026]** **Policy Contrastive Decoding for Robotic Foundation Models**<br>
 面向多种 VLA 架构的免训练策略对比解码，无需训练即可获得 +8%–41% 的性能提升。<br>
 [项目主页](https://koorye.github.io/PCD) · [arXiv](https://arxiv.org/abs/2505.13255) · [PDF](https://arxiv.org/pdf/2505.13255) · [代码](https://github.com/Koorye/PCD/)
 
-**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**<br>
-*机器人 · ICRA 2026*<br>
+🤖 **[ICRA 2026]** **InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**<br>
 引入内在空间推理减轻 VLA 的虚假相关性，在可见任务上提升 +6.2%、未见任务上提升 +10%。<br>
 [项目主页](https://koorye.github.io/Inspire) · [arXiv](https://arxiv.org/abs/2505.13888) · [PDF](https://arxiv.org/pdf/2505.13888) · [代码](https://github.com/Koorye/Inspire/)
 
-**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**<br>
-*VLM · CVPR 2025*<br>
+🖼️ **[CVPR 2025]** **Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**<br>
 无需额外参数的 VLM 适配方法：+1.04% 精度、15× 加速、6.4× 内存效率。<br>
 [项目主页](https://koorye.github.io/SkipTuning/) · [arXiv](https://arxiv.org/abs/2412.11509) · [PDF](https://arxiv.org/pdf/2412.11509) · [代码](https://github.com/Koorye/SkipTuning)
 
-**A Closer Look at Conditional Prompt Tuning for Vision-Language Models**<br>
-*VLM · IJCV 2026*<br>
+🖼️ **[IJCV 2026]** **A Closer Look at Conditional Prompt Tuning for Vision-Language Models**<br>
 面向 VLM 的文本条件提示调优，相较此前条件 PT 最优方法提升 +3.49%。<br>
 [arXiv](https://arxiv.org/abs/2506.23856) · [PDF](https://arxiv.org/pdf/2506.23856) · [代码](https://github.com/Koorye/CaPT/)
 
-**DePT: Decoupled Prompt Tuning**<br>
-*VLM · CVPR 2024*<br>
+🖼️ **[CVPR 2024]** **DePT: Decoupled Prompt Tuning**<br>
 即插即用的解耦提示调优方法，在多种提示调优基线上普遍提升 +0.67%–2.65%。<br>
 [项目主页](https://koorye.github.io/DePT/) · [arXiv](https://arxiv.org/abs/2309.07439) · [PDF](https://arxiv.org/pdf/2309.07439) · [代码](https://github.com/Koorye/DePT/)
 
@@ -151,20 +158,6 @@
   </tr>
 </table>
 
-<details>
-<summary>媒体报道与专题</summary>
-
-- **魔搭社区** — [智源 RoboCOIN 数据集正式开源！](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
-- **魔搭社区** — [EAI-100: 2025 具身智能白皮书百强成果与人物入选](https://www.modelscope.cn/learn/6060#4ever-bi-513)
-- **将门创投** — [RoboCOIN: 用于统一操控的大规模双臂机器人数据集](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
-- **松灵机器人** — [智源研究院构建首个大规模多具身双臂操控数据基础设施](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
-- **具身智能之心** — [PCD: 无需训练、即插即用的 VLA](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
-- **深蓝学院** — [打破 VLA 伪相关！简单的空间推理让泛化能力提升 4 倍](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
-- **多模态空间** — [通过推理连接高维空间：思维链增强的 VLA 空间推理](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
-- **LLMPhD** — [成电 & 同济 Skip Tuning: 视觉语言模型的轻量化适配方案](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
-- **机器人大讲堂** — [智源 RoboCOIN: 带有细粒度标注的最大规模真实世界双臂数据集](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
-
-</details>
 
 ---
 
