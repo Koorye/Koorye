@@ -185,38 +185,32 @@
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/baai.png" width="100%" />
       <br /><sub>北京智源人工智能研究院</sub>
     </td>
-    <td width="50%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/uestc.png" width="100%" />
       <br /><sub>电子科技大学</sub>
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td width="25%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/xiaomi.jpg" width="100%" />
-      <br /><sub>小米顶尖应届交流会</sub>
+      <br /><sub>小米交流会</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/agibot.jpg" width="100%" />
-      <br /><sub>智元机器人优才计划参观行</sub>
+      <br /><sub>智元参观</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/galbot.jpg" width="100%" />
-      <br /><sub>参观银河通用机器人公司</sub>
+      <br /><sub>银河通用参观</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/ailab.jpg" width="100%" />
-      <br /><sub>上海人工智能实验室人才交流会</sub>
+      <br /><sub>上海 AI Lab</sub>
     </td>
   </tr>
 </table>
-
 
 ---
 

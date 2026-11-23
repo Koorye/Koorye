@@ -185,38 +185,32 @@ Plug-and-play decoupled prompt tuning; +0.67%–2.65% over prompt-tuning baselin
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/baai.png" width="100%" />
-      <br /><sub>Beijing Academy of Artificial Intelligence</sub>
+      <br /><sub>BAAI</sub>
     </td>
-    <td width="50%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/uestc.png" width="100%" />
-      <br /><sub>University of Electronic Science and Technology of China</sub>
+      <br /><sub>UESTC</sub>
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td width="25%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/xiaomi.jpg" width="100%" />
-      <br /><sub>Xiaomi Top Fresh Graduate Exchange Forum</sub>
+      <br /><sub>Xiaomi Exchange Forum</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/agibot.jpg" width="100%" />
-      <br /><sub>Agibot Elite Program Visit</sub>
+      <br /><sub>Agibot Visit</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/galbot.jpg" width="100%" />
-      <br /><sub>Visiting Galbot</sub>
+      <br /><sub>Galbot Visit</sub>
     </td>
-    <td width="25%" align="center">
+    <td width="16.66%" align="center">
       <img src="gallery/ailab.jpg" width="100%" />
-      <br /><sub>Shanghai AI Laboratory Talent Exchange Forum</sub>
+      <br /><sub>Shanghai AI Lab</sub>
     </td>
   </tr>
 </table>
-
 
 ---
 
