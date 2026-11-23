@@ -8,8 +8,8 @@
 ## 👨‍🔬 About Me
 
 <p>Hello! I am an <b>Embodied Intelligence Researcher</b> at <b>Beijing Academy of Artificial Intelligence (BAAI)</b>, and I received my Master's degree from the <b>School of Computer Science and Engineering</b> of <b>University of Electronic Science and Technology of China (UESTC)</b>.</p>
-<p><b>Research Interests:</b> Embodied Intelligence, Vision-Language Models.</p>
-<p>I have published several papers in top-tier conferences such as <b>CVPR</b>, <b>ICLR</b>, and <b>ICRA</b>. My papers have received over <b>300 citations</b>, and my open-source datasets have been used by <b>360+ institutions</b> worldwide with over <b>50,000,000 downloads</b>. I have been invited to serve as a reviewer for <b>NeurIPS</b>, <b>ICLR</b>, and <b>TPAMI</b>. Feel free to reach out to me via email for any inquiries or collaborations!</p>
+<p><b>Research Interests:</b> Embodied Intelligence, Vision-Language-Action Models, and Large-Scale Robotic Datasets.</p>
+<p>I have published <b>7 papers</b>, including <b>CVPR</b>, <b>ICLR</b>, <b>ICRA</b>, and <b>IJCV</b>. My papers have received over <b>300 citations</b>, and my open-source datasets have been used by <b>360+ institutions</b> worldwide with over <b>100,000,000 downloads</b>. I have been invited to serve as a reviewer for <b>NeurIPS</b>, <b>ICLR</b>, and <b>TPAMI</b>. Feel free to reach out to me via email for any inquiries or collaborations!</p>
 <p>
   <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/Email-shihan.wu.koorye@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" /></a>
   <a href="https://koorye.github.io/home/"><img src="https://img.shields.io/badge/Homepage-Click-orange?style=for-the-badge&logo=googlechrome" /></a>
@@ -24,8 +24,9 @@
 
 ### 📢 News
 
+- **[Nov. 2026]** 🎉 Our **HumanCOIN** dataset is now released!
+- **[Nov. 2026]** 📈 Our open-source datasets have surpassed **100,000,000** cumulative downloads!
 - **[Sep. 2026]** 📈 My papers have received over **300 citations**!
-- **[Sep. 2026]** 🎉 Our **RoboCOIN** dataset has surpassed **50,000,000** total downloads!
 - **[Jun. 2026]** 🔭 I officially joined **Beijing Academy of Artificial Intelligence (BAAI)** as an **Embodied Intelligence Researcher**!
 - **[Jun. 2026]** 🎓️ I received my **Master's degree** from **UESTC**!
 - **[May. 2026]** 🏆 I was invited to the **CCF Young Elite Forum 2026 (YEF 2026)** and won the **Best Presentation Award** in the Master's Group!
@@ -48,11 +49,11 @@
 ### 💼 Experience
 
 - 🏢 **Embodied Intelligence Researcher** · Beijing Academy of Artificial Intelligence (BAAI) · *2026.06 - Present*
-  - Exploring efficient learning paradigms of VLA, designing large-scale bimanual datasets with hierarchical skill labels
+  - Leading **HumanCOIN** (12,500 h egocentric manipulation data, 38 scene classes, 30 institutions) and efficient VLA learning research
 - 🏢 **Research Intern** · Beijing Academy of Artificial Intelligence (BAAI) · *2025.06 - 2026.06*
-  - Conducted research on embodied AI and vision-language-action models
+  - Led **RoboCOIN** (20 institutions, 15 embodiments, 180K+ demonstrations); research on Embodied Intelligence and VLA models
 - 🎓 **Master's Student in Computer Science and Technology** · UESTC · *2023.09 - 2026.06*
-  - 📊 Rank: **6/454 (Top 1.3%)** · 🔬 Focus: Embodied AI, Vision-Language Models
+  - 📊 Rank: **6/454 (Top 1.3%)** · 🔬 Focus: Embodied Intelligence, VLA, Large-Scale Robotic Datasets
   - 🏆National Scholarship (2024), 🏅Sichuan Province Outstanding Graduate (2026)
 - 🎓 **Bachelor of Software Engineering** · UESTC, Software Engineering · *2019.09 - 2023.06*
   - 📊 Rank: **18/181 (Top 10%)**
@@ -62,9 +63,13 @@
 
 ### 📕 Publications
 
+* 🤖 **[arXiv 2026]** **HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation**  
+  [[Project]](https://flagopen.github.io/HumanCOIN/) [[arXiv]](https://arxiv.org/abs/2611.26434) [[PDF]](https://arxiv.org/pdf/2611.26434) [[Code]](https://github.com/FlagOpen/HumanCOIN/) ![Stars](https://img.shields.io/github/stars/FlagOpen/HumanCOIN?style=flat-square&logo=github)
+    * Large-scale egocentric manipulation dataset with **12,500 hours** of data across **38 scene classes**, built with **30 institutions**; includes gaze, sEMG, and EEG intent tiers.
+
 * 🤖 **[EAI-100 TOP-10 Datasets in 2025]** **RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**  
   [[Project]](https://flagopen.github.io/RoboCOIN/) [[arXiv]](https://arxiv.org/abs/2511.17441) [[PDF]](https://arxiv.org/pdf/2511.17441) [[Code]](https://github.com/FlagOpen/RoboCOIN/) ![Stars](https://img.shields.io/github/stars/FlagOpen/RoboCOIN?style=flat-square&logo=github)
-    * Open-sourced large-scale bimanual robotic dataset with **15 robotic platforms** and **180K+ demonstrations**, built with **20 institutions**; used by **360+ institutions** with over **50,000,000 downloads**, serving as training data for models such as **Alibaba Qwen-RobotManip**, **DAMO RynnValue**, **Alibaba Cloud PAIWorld**, and **PKU LDA-1B**.
+    * Open-sourced large-scale bimanual robotic dataset with **15 robotic platforms** and **180K+ demonstrations**, built with **20 institutions**; used by **360+ institutions**; our released datasets have over **100,000,000** cumulative downloads, serving as training data for models such as **Alibaba Qwen-RobotManip**, **DAMO RynnValue**, **Alibaba Cloud PAIWorld**, and **PKU LDA-1B**.
 
 * 🤖 **[ICLR 2026]** **Policy Contrastive Decoding for Robotic Foundation Models**  
   [[Project]](https://koorye.github.io/PCD) [[arXiv]](https://arxiv.org/abs/2505.13255) [[PDF]](https://arxiv.org/pdf/2505.13255) [[Code]](https://github.com/Koorye/PCD/) ![Stars](https://img.shields.io/github/stars/Koorye/PCD?style=flat-square&logo=github)

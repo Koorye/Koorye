@@ -9,9 +9,9 @@
 
 你好！我是**北京智源人工智能研究院** **(Beijing Academy of Artificial Intelligence, BAAI)** 的**具身智能研究员**，硕士毕业于**电子科技大学计算机科学与工程学院**。
 
-**研究方向**：具身智能、视觉语言模型。
+**研究方向**：具身智能、视觉-语言-动作模型、大规模机器人数据集。
 
-我已在 **CVPR**、**ICLR**、**ICRA** 等顶级会议发表多篇论文，总引用量超过 **300 次**；开源数据集已被全球 **360+ 家机构**使用，下载量超过 **5000 万次**。受邀担任 **NeurIPS**、**ICLR**、**TPAMI** 等国际会议及期刊审稿人。欢迎通过邮件与我联系，交流合作！
+我已在 **CVPR**、**ICLR**、**ICRA**、**IJCV** 等顶级会议与期刊发表 **7 篇论文**，总引用量超过 **300 次**；开源数据集已被全球 **360+ 家机构**使用，累计下载量超过 **1 亿次**。受邀担任 **NeurIPS**、**ICLR**、**TPAMI** 等国际会议及期刊审稿人。欢迎通过邮件与我联系，交流合作！
 
 <p>
   <a href="mailto:shihan.wu.koorye@outlook.com"><img src="https://img.shields.io/badge/电子邮箱-shihan.wu.koorye@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook" /></a>
@@ -27,8 +27,9 @@
 
 ### 📢 最新动态
 
+- **[2026.11]** 🎉 我们的 **HumanCOIN** 数据集正式发布！
+- **[2026.11]** 📈 我们的开源数据集累计下载量突破 **1 亿**次！
 - **[2026.09]** 📈 我的论文总引用量突破 **300** 次！
-- **[2026.09]** 🎉 我们的 **RoboCOIN** 数据集下载量突破 **50,000,000** 次！
 - **[2026.06]** 🔭 我正式加入**北京智源人工智能研究院**，担任**具身智能研究员**！
 - **[2026.06]** 🎓️ 我在**电子科技大学**获得硕士学位！
 - **[2026.05]** 🏆 受邀参加 **CCF 青年精英大会 (YEF 2026)**，荣获硕士组**最佳学术展示奖**！
@@ -51,11 +52,11 @@
 ### 💼 个人经历
 
 - 🏢 **具身智能研究员** · 北京智源人工智能研究院 (BAAI) · *2026.06 - 至今*
-  - 探索 VLA 模型的高效学习范式，设计具有层级技能标注的大规模双臂数据集
+  - 主导 **HumanCOIN**（12,500 小时第一人称操作数据、38 个场景类别、30 家机构）及 VLA 高效学习研究
 - 🏢 **研究实习生** · 北京智源人工智能研究院 (BAAI) · *2025.06 - 2026.06*
-  - 从事具身智能与视觉语言动作模型研究
+  - 主导 **RoboCOIN**（20 家机构、15 个本体、18 万+ 演示）；从事具身智能与 VLA 研究
 - 🎓 **计算机科学与技术硕士研究生** · 电子科技大学 · *2023.09 - 2026.06*
-  - 📊 排名：**6/454（前 1.3%）** · 🔬 方向：具身智能、视觉语言模型
+  - 📊 排名：**6/454（前 1.3%）** · 🔬 方向：具身智能、VLA、大规模机器人数据集
   - 🏆国家奖学金（2024），🏅四川省优秀毕业生（2026）
 - 🎓 **软件工程学士** · 电子科技大学，软件工程 · *2019.09 - 2023.06*
   - 📊 排名：**18/181（前 10%）**
@@ -65,9 +66,13 @@
 
 ### 📕 发表论文
 
+* 🤖 **[arXiv 2026]** **HumanCOIN: A 12,500-Hour Dataset for Human Intent in Egocentric Manipulation**  
+  [[项目主页]](https://flagopen.github.io/HumanCOIN/) [[arXiv]](https://arxiv.org/abs/2611.26434) [[PDF]](https://arxiv.org/pdf/2611.26434) [[代码]](https://github.com/FlagOpen/HumanCOIN/) ![Stars](https://img.shields.io/github/stars/FlagOpen/HumanCOIN?style=flat-square&logo=github)
+    * 12,500 小时第一人称操作数据集，覆盖 **38 个场景类别**，由 **30 家机构**联合构建；包含注视、表面肌电与脑电三层意图信号。
+
 * 🤖 **[EAI-100 2025年度 TOP-10 数据集]** **RoboCOIN: An Open-Sourced Bimanual Robotic Data Collection for Integrated Manipulation**  
   [[项目主页]](https://flagopen.github.io/RoboCOIN/) [[arXiv]](https://arxiv.org/abs/2511.17441) [[PDF]](https://arxiv.org/pdf/2511.17441) [[代码]](https://github.com/FlagOpen/RoboCOIN/) ![Stars](https://img.shields.io/github/stars/FlagOpen/RoboCOIN?style=flat-square&logo=github)
-    * 开源大规模双臂机器人数据集，涵盖 **15 个机器人平台** 和 **18万+ 条演示数据**，由 **20 家机构** 联合构建；已被 **360+ 家机构** 使用，下载量超过 **5000 万次**，并作为阿里巴巴 **Qwen-RobotManip**、达摩院 **RynnValue**、阿里云 **PAIWorld**、北大 **LDA-1B** 等模型的训练数据。
+    * 开源大规模双臂机器人数据集，涵盖 **15 个机器人平台** 和 **18万+ 条演示数据**，由 **20 家机构** 联合构建；已被 **360+ 家机构** 使用；发布的数据集累计下载量超过 **1 亿次**，并作为阿里巴巴 **Qwen-RobotManip**、达摩院 **RynnValue**、阿里云 **PAIWorld**、北大 **LDA-1B** 等模型的训练数据。
 
 * 🤖 **[ICLR 2026]** **Policy Contrastive Decoding for Robotic Foundation Models**  
   [[项目主页]](https://koorye.github.io/PCD) [[arXiv]](https://arxiv.org/abs/2505.13255) [[PDF]](https://arxiv.org/pdf/2505.13255) [[代码]](https://github.com/Koorye/PCD/) ![Stars](https://img.shields.io/github/stars/Koorye/PCD?style=flat-square&logo=github)
