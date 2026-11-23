@@ -38,15 +38,15 @@ Current work centers on **HumanCOIN** (12,500 hours of egocentric manipulation d
 <details>
 <summary><b>Media Coverage</b> · Click to view more</summary>
 
-- **ModelScope Community** — [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
-- **ModelScope Community** — [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
-- **Aiorang Open Class** — [RoboCOIN: Large-scale Dual-Arm Robot Dataset for Unified Manipulation](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
-- **AgileX Robotics** — [BAAI builds the first large-scale multi-embodiment dual-arm manipulation data infrastructure](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
-- **Embodied AI Heart** — [PCD: Training-free & Plug-and-Play VLA](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
-- **DeepBlue Embodied AI** — [Breaking VLA spurious correlations](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
-- **Multimodal Space** — [CoT-enhanced spatial reasoning for VLAs](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
-- **LLMPhD** — [Skip Tuning: Lightweight adaptation for vision-language models](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
-- **Robot Lecture Hall** — [BAAI RoboCOIN: Largest real-world dual-arm dataset with fine-grained annotations](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
+- <img src="media/modelscope.png" height="18" align="middle" alt="ModelScope logo" />&nbsp;**ModelScope Community** — [BAAI RoboCOIN is officially open-sourced!](https://modelscope.csdn.net/69362ae92087ae0db79fd73a.html)
+- <img src="media/modelscope.png" height="18" align="middle" alt="ModelScope logo" />&nbsp;**ModelScope Community** — [EAI-100: Top 100 Achievements & Figures in Embodied AI 2025 White Paper](https://www.modelscope.cn/learn/6060#4ever-bi-513)
+- <img src="media/aiorang.png" height="18" align="middle" alt="Aiorang logo" />&nbsp;**Aiorang Open Class** — [RoboCOIN: Large-scale Dual-Arm Robot Dataset for Unified Manipulation](https://www.aiorang.com/c/ODA2ODM0MDM3YjA0NjNmMDIxNjM=)
+- <img src="media/agilex.png" height="18" align="middle" alt="AgileX logo" />&nbsp;**AgileX Robotics** — [BAAI builds the first large-scale multi-embodiment dual-arm manipulation data infrastructure](https://mp.weixin.qq.com/s/_McJ6izPNzD--vHhyXLgGA)
+- <img src="media/embodied.png" height="18" align="middle" alt="Embodied AI Heart logo" />&nbsp;**Embodied AI Heart** — [PCD: Training-free & Plug-and-Play VLA](https://mp.weixin.qq.com/s/DdCxn9PgkTqmbkseWyheYQ)
+- <img src="media/shenlan.png" height="18" align="middle" alt="DeepBlue logo" />&nbsp;**DeepBlue Embodied AI** — [Breaking VLA spurious correlations](https://mp.weixin.qq.com/s/HJhvxMjd2uh8oZcaEVL_fA)
+- <img src="media/duomo.png" height="18" align="middle" alt="Multimodal Space logo" />&nbsp;**Multimodal Space** — [CoT-enhanced spatial reasoning for VLAs](https://mp.weixin.qq.com/s/JyAuCxVBEUjm8au2e75Wng)
+- <img src="media/llmphd.png" height="18" align="middle" alt="LLMPhD logo" />&nbsp;**LLMPhD** — [Skip Tuning: Lightweight adaptation for vision-language models](https://mp.weixin.qq.com/s?search_click_id=2008252490460296034-1774496722577-4783524904&__biz=MzYyMTIwMjM3MQ==&mid=2247483750&idx=1&sn=8a26c12c2c52bc289a98ef847e285fdd&chksm=fe1fc6aa7c2f9d00a1b35a36dea8599e94186d9aa013dad00a39211c9d5220e3ac99c6fc89ed&scene=7#rd)
+- <img src="media/rt.png" height="18" align="middle" alt="Robot Lecture Hall logo" />&nbsp;**Robot Lecture Hall** — [BAAI RoboCOIN: Largest real-world dual-arm dataset with fine-grained annotations](https://mp.weixin.qq.com/s?search_click_id=15991064877490272766-1774494403679-3589861850&__biz=MzI5MzE0NDUzNQ==&mid=2247483750&idx=1&sn=3477904ab8d66b47fd4ce9b869d3a69e&chksm=f5c0a43cb86a845ef3791ae7d7de7dda717ac1c011dc8e720123f30c199b71fce22d2b910309&scene=7#rd)
 
 </details>
 
